@@ -6,7 +6,7 @@ tags:
 author: Team XBMC
 ---
 
-![](/images/blog/beagle-76x101.webp)I have been selected by the Beagleboard community and Google to work on Google Summer of Code 2010. My project will consist of optimizing the rendering of XBMC for the embedded market.
+![](/images/blog/beagle-76x101.jpeg)I have been selected by the Beagleboard community and Google to work on Google Summer of Code 2010. My project will consist of optimizing the rendering of XBMC for the embedded market.
 
 The Beagleboard is an arm based embedded device. Similar hardware can be found in the smart phone segment, for instance the first generation of Android based phones. The current version of the hardware will not be able to deliver 1080p but upcoming generations might. This opens up a wonderful possibility for XBMC.
 

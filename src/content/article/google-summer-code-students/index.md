@@ -5,7 +5,7 @@ tags:
   - Developer
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/summerofcode_0.webp
+  src: /images/blog/summerofcode_0.jpeg
   title: "summerofcode_0"
   alt: "summerofcode_0"
 ---

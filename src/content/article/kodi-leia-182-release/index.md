@@ -5,7 +5,7 @@ tags:
   - Release
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/56497556-ef88dd00-64f5-11e9-9924-6ecc6bbea17c.webp
+  src: /images/blog/56497556-ef88dd00-64f5-11e9-9924-6ecc6bbea17c.jpeg
   title: "Kodi 18 Robot"
   alt: "Kodi 18 Robot"
 ---

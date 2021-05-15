@@ -8,7 +8,7 @@ breadcrumbs: Contribute | Developers
 
 Since its first inception dating back to the original XBOX days, Kodi has been maintained by a group of volunteers. Over the years many volunteers have spent countless days (months really) on every aspect of what makes Kodi great. This consists of writing and maintaining the code base of Kodi, expanding to new platforms, maintaining the forum, wiki, website and download server and more.
 
-![Kodi logo as sushi](/images/kodi-wallpaper-32a-samfisher.webp)
+![Kodi logo as sushi](/images/kodi-wallpaper-32a-samfisher.jpeg)
 
 We would welcome anyone who is willing to do their part on any improvement that is needed. A fair warning is that our codebase isn’t for the faint hearted as it’s quite massive and we are quite strict regarding code review before we merge anything. However don’t let this frighten you off as our current (or outside developers) will certainly give you pointers on improvements to get it included. What we currently need most are developers with knowledge of the following components to improve current implementations:
 

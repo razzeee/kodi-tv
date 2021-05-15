@@ -5,7 +5,7 @@ author: Cris Silva (h.udo)
 tags:
   - Community
 featured_image:
-  src: /images/blog/kodi_matrix.webp
+  src: /images/blog/kodi_matrix.jpeg
   title: "Kodi Matrix v19"
   alt: "Kodi Matrix v19"
 ---

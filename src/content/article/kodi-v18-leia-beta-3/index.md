@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kodi_Blog_Motherboard_2D_A_900x336.webp
+  src: /images/blog/Kodi_Blog_Motherboard_2D_A_900x336.jpeg
   title: "Kodi_Blog_Motherboard_2D_A_900x336"
   alt: "Kodi_Blog_Motherboard_2D_A_900x336"
 ---
@@ -88,4 +88,4 @@ _Go to the [Official download page](https://kodi.tv/download) and choose the pla
 
 **_May the force be with you….._**
 
-**_![](/images/blog/K-18L-Comic-Preview.webp)_**
+**_![](/images/blog/K-18L-Comic-Preview.jpeg)_**

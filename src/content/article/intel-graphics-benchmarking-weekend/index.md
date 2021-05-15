@@ -14,6 +14,6 @@ Some days later, some chaps in #intel-gfx suggested I did a little benchmarking.
 
 Here’s what my testing resulted in:
 
-[![](/images/blog/timedemo3_1.webp)](/images/blog/timedemo3_1.webp)
+[![](/images/blog/timedemo3_1.jpeg)](/images/blog/timedemo3_1.jpeg)
 
 Now I need to find a good way to let Intel Linux Driver Developers know about these results. If you got any tips, please email or leave a comment

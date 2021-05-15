@@ -6,7 +6,7 @@ tags:
   - Conferences
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/Image uploaded from iOS.webp
+  src: /images/blog/Image uploaded from iOS.jpeg
   title: "Image uploaded from iOS"
   alt: "Image uploaded from iOS"
 ---

@@ -6,7 +6,7 @@ tags:
   - Conferences
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/joakim-honkasalo-587350-unsplash.webp
+  src: /images/blog/joakim-honkasalo-587350-unsplash.jpeg
   title: "joakim-honkasalo-587350-unsplash"
   alt: "joakim-honkasalo-587350-unsplash"
 ---

@@ -5,7 +5,7 @@ tags:
   - Community
 author: DarrenHill
 featured_image:
-  src: /images/blog/legal.webp
+  src: /images/blog/legal.jpeg
   title: "Image by Fathromi Ramdlon from Pixabay "
   alt: "Image by Fathromi Ramdlon from Pixabay "
 ---

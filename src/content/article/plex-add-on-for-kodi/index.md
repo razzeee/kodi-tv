@@ -5,7 +5,7 @@ tags:
   - Community
 author: Keith Herrington
 featured_image:
-  src: /images/blog/plexforkodi.webp
+  src: /images/blog/plexforkodi.jpeg
   title: "plexforkodi"
   alt: "plexforkodi"
 ---

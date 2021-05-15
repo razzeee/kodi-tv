@@ -5,7 +5,7 @@ tags:
   - Conferences
 author: Blittan
 featured_image:
-  src: /images/blog/Skärmavbild-2014-04-15-kl.-20.52.381.webp
+  src: /images/blog/Skärmavbild-2014-04-15-kl.-20.52.381.jpeg
   title: "Skärmavbild-2014-04-15-kl.-20.52.381"
   alt: "Skärmavbild-2014-04-15-kl.-20.52.381"
 ---

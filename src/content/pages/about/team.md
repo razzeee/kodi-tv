@@ -10,11 +10,11 @@ The Kodi team is an ever-changing group of volunteers from across the globe that
 
 ### 2016 Devcon
 
-![Kodi team at 2016 Devcon](/images/devcon-2016.webp)
+![Kodi team at 2016 Devcon](/images/devcon-2016.jpeg)
 
 ### 2015 Devcon
 
-![Kodi team at 2015 Devcon](/images/devcon-2015.webp)
+![Kodi team at 2015 Devcon](/images/devcon-2015.jpeg)
 
 **Top:** alwinus, jjd-uk, keith, razze, ksooo, zag
 **Middle:** ruuk, koying, montellese, mkortstiege, , phil65, martijn
@@ -22,19 +22,19 @@ The Kodi team is an ever-changing group of volunteers from across the globe that
 
 ### 2014 Devcon
 
-![Kodi team at 2014 Devcon](/images/devcon-2014.webp)
+![Kodi team at 2014 Devcon](/images/devcon-2014.jpeg)
 
 ### 2013 Devcon
 
-![Kodi team at 2013 Devcon](/images/devcon-2013.webp)
+![Kodi team at 2013 Devcon](/images/devcon-2013.jpeg)
 
 ### 2012 Devcon
 
-![Kodi team at 2012 Devcon](/images/devcon-2012.webp)
+![Kodi team at 2012 Devcon](/images/devcon-2012.jpeg)
 
 ### 2008 Devcon
 
-![Kodi team at 2008 Devcon](/images/devcon-2008.webp)
+![Kodi team at 2008 Devcon](/images/devcon-2008.jpeg)
 
 ## Join the team
 

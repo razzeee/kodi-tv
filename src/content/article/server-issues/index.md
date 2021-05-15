@@ -6,7 +6,7 @@ tags:
   - Developer
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/Servers-Server-Farm-Engine-Room.webp
+  src: /images/blog/Servers-Server-Farm-Engine-Room.jpeg
   title: "Servers-Server-Farm-Engine-Room"
   alt: "Servers-Server-Farm-Engine-Room"
 ---

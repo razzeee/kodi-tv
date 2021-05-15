@@ -5,7 +5,7 @@ tags:
   - Release
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/xbmc-gotham-13_1-splash.webp
+  src: /images/blog/xbmc-gotham-13_1-splash.jpeg
   title: "xbmc-gotham-13_1-splash"
   alt: "xbmc-gotham-13_1-splash"
 ---

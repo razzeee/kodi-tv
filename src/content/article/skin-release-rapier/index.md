@@ -6,10 +6,10 @@ author: Team XBMC
 
 Today scarfa came out of nowhere with a beautiful new skin, available immediately. Click the image below for a screenshot preview.
 
-[![](/images/blog/rapier1.webp "Rapier")](/images/blog/rapier1.webp)  
+[![](/images/blog/rapier1.jpeg "Rapier")](/images/blog/rapier1.jpeg)  
  Click image for slideshow
 
-[Rapier](../wp-content/gallery/rapier/rapier2.webp)[Rapier](../wp-content/gallery/rapier/rapier3.webp)[Rapier](../wp-content/gallery/rapier/rapier4.webp)[Rapier](../wp-content/gallery/rapier/rapier5.webp)[Rapier](../wp-content/gallery/rapier/rapier6.webp)[Rapier](../wp-content/gallery/rapier/rapier7.webp)[Rapier](../wp-content/gallery/rapier/rapier8.webp)[Rapier](../wp-content/gallery/rapier/rapier9.webp)
+[Rapier](../wp-content/gallery/rapier/rapier2.jpeg)[Rapier](../wp-content/gallery/rapier/rapier3.jpeg)[Rapier](../wp-content/gallery/rapier/rapier4.jpeg)[Rapier](../wp-content/gallery/rapier/rapier5.jpeg)[Rapier](../wp-content/gallery/rapier/rapier6.jpeg)[Rapier](../wp-content/gallery/rapier/rapier7.jpeg)[Rapier](../wp-content/gallery/rapier/rapier8.jpeg)[Rapier](../wp-content/gallery/rapier/rapier9.jpeg)
 
 Here’s what the author had to say about Rapier:
 

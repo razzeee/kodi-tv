@@ -6,7 +6,7 @@ tags:
 author: Cory
 ---
 
-![](/images/blog/apple-pinwheel-smaller.webp "apple-pinwheel-smaller")We expected a good amount of interest from the last post, but the response was overwhelming.
+![](/images/blog/apple-pinwheel-smaller.jpeg "apple-pinwheel-smaller")We expected a good amount of interest from the last post, but the response was overwhelming.
 
 As a result, we have been hard at work fixing bugs and adding missing features from the first release. So here it is, v2 of XBMC for your AppleTV2/iDevices.
 

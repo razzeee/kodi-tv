@@ -5,7 +5,7 @@ tags:
   - Community
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/xbmc4xbox-2017-05-26.webp
+  src: /images/blog/xbmc4xbox-2017-05-26.jpeg
   title: "xbmc4xbox-2017-05-26"
   alt: "xbmc4xbox-2017-05-26"
 ---
@@ -28,4 +28,4 @@ Here's the original announcement from 26 May 2010
 >
 > Now seven years later the project still lives on at <https://www.xbmc4xbox.org.uk/> and on 27 February last year they released their 3.5.3 version for the original XBOX. It's amazing that the old XBOX is still alive and used as media center device with a lively community around it.
 
-[![](https://www.xbmc4xbox.org.uk/wordpress/wp-content/themes/inove/img/xbmc4xbox.webp)](https://www.xbmc4xbox.org.uk/)
+[![](https://www.xbmc4xbox.org.uk/wordpress/wp-content/themes/inove/img/xbmc4xbox.jpeg)](https://www.xbmc4xbox.org.uk/)

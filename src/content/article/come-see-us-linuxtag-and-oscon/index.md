@@ -6,7 +6,7 @@ tags:
 author: Team XBMC
 ---
 
-[![](/images/blog/linuxtag.webp "linuxtag")](http://www.linuxtag.org)[![](https://assets.en.oreilly.com/1/event/45/oscon2010_125x125.webp "OSCON")](https://www.oreilly.com/conferences/)For the second year, XBMC will be hosting a booth at LinuxTag in Berlin, June 9-12. The list of [exhibitors](http://www.linuxtag.org/2010/en/exhibitors/exhibition.html) is quite impressive, and there will be several influential speakers.
+[![](/images/blog/linuxtag.jpeg "linuxtag")](http://www.linuxtag.org)[![](https://assets.en.oreilly.com/1/event/45/oscon2010_125x125.jpeg "OSCON")](https://www.oreilly.com/conferences/)For the second year, XBMC will be hosting a booth at LinuxTag in Berlin, June 9-12. The list of [exhibitors](http://www.linuxtag.org/2010/en/exhibitors/exhibition.html) is quite impressive, and there will be several influential speakers.
 
 For the Americans, we will also be attending OSCON on July 19-23 in Portland, Oregon. This is one of the bigger open-source conferences in the US and the [exhibitors list](https://www.oreilly.com/conferences/) is very nice there as well.
 

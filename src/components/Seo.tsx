@@ -7,7 +7,7 @@ function SEO({ lang, meta, keywords, frontmatter }) {
   let breadcrumbs = config.siteMetadata.title;
   let shortcrumbs = breadcrumbs;
   let description = config.siteMetadata.description;
-  let image = config.siteMetadata.siteUrl + "/images/kodi_og_default.webp";
+  let image = config.siteMetadata.siteUrl + "/images/kodi_og_default.jpeg";
   if (frontmatter.breadcrumbs != undefined) {
     breadcrumbs = breadcrumbs + " | " + frontmatter.breadcrumbs;
     shortcrumbs = frontmatter.breadcrumbs;

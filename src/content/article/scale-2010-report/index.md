@@ -12,5 +12,5 @@ The crowd there was very impressed by what XBMC can do, and many stopped by to g
 
 I encourage all of our users to drop by and see us at these shows, they’re really a lot of fun! Sadly, my pictures did not turn out well at all so there’s not much to show, only one that I’ve borrowed from [LinuxJournal](https://www.linuxjournal.com/content/scale-8x-report). Maybe next year I’ll remember a decent camera…
 
-![](/images/blog/xbmc-scale.webp "xbmc-scale")  
+![](/images/blog/xbmc-scale.jpeg "xbmc-scale")  
  Left to right: me (Cory Fields), malloc (Sean Soria), Shawn Powers from Linux Journal

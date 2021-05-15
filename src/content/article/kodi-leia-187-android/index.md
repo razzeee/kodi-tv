@@ -5,7 +5,7 @@ tags:
   - Community
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/Android_Robot.webp
+  src: /images/blog/Android_Robot.jpeg
   title: "Android robot: the Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License."
   alt: "Android robot: the Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License."
 ---

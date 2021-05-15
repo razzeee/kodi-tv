@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kodi-Wallpaper-31C-1080p_samfisher.webp
+  src: /images/blog/Kodi-Wallpaper-31C-1080p_samfisher.jpeg
   title: "Kodi-Wallpaper-31C-1080p_samfisher"
   alt: "Kodi-Wallpaper-31C-1080p_samfisher"
 ---
@@ -56,7 +56,7 @@ This round we didn’t really add new features as the focus was to further impro
 
 Windows Store
 
-[![KODI_BLOG_WIN_300x300_C](/images/blog/KODI_BLOG_WIN_300x300_C-160x160.webp)](/article/kodi-goes-windows-store)In case you missed the big news some time ago, Kodi got added to the Windows Store as a Desktop Bridge UWP app. It is still the same Kodi version you are used to use, without any limitations. Although it is still possible (and always will be) to download and install Kodi from our website, it is now also possible for Windows 10 users to download and install Kodi from the Windows Store. This brings a few benefits, such as automatic updating. The Windows Store application uses the same _userdata_ as the version from our website so you can switch between the two versions without issues. NOTE: This also means that if you are currently running Kodi v16 and want to try out the Windows Store version, your Kodi databases and add-ons will be upgraded to the v17 versions. You might want to make a backup of the userdata before! You can read the full announcement here: [Kodi goes Windows Store](/article/kodi-goes-windows-store)
+[![KODI_BLOG_WIN_300x300_C](/images/blog/KODI_BLOG_WIN_300x300_C-160x160.jpeg)](/article/kodi-goes-windows-store)In case you missed the big news some time ago, Kodi got added to the Windows Store as a Desktop Bridge UWP app. It is still the same Kodi version you are used to use, without any limitations. Although it is still possible (and always will be) to download and install Kodi from our website, it is now also possible for Windows 10 users to download and install Kodi from the Windows Store. This brings a few benefits, such as automatic updating. The Windows Store application uses the same _userdata_ as the version from our website so you can switch between the two versions without issues. NOTE: This also means that if you are currently running Kodi v16 and want to try out the Windows Store version, your Kodi databases and add-ons will be upgraded to the v17 versions. You might want to make a backup of the userdata before! You can read the full announcement here: [Kodi goes Windows Store](/article/kodi-goes-windows-store)
 
 **NOTE**: Since it takes a bit of time to publish in Windows Store you might need to wait a bit till the update is available.
 

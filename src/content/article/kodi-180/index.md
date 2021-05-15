@@ -5,7 +5,7 @@ tags:
   - Release
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/kodi_blog_k-18l_c_900x336.webp
+  src: /images/blog/kodi_blog_k-18l_c_900x336.jpeg
   title: 'Kodi v18 "Leia" robot'
   alt: 'Kodi v18 "Leia" robot'
 ---
@@ -80,7 +80,7 @@ Inspired by the "galaxy far, far away" theme, our resident artist Sam went above
 
 We loved his work so much that we're modelling the Kodi 18 shirt after it, along with more art to come. Here it is, our [newest, coolest shirt: K-18L](https://teespring.com/stores/kodi-18-leia-store) - available in several shirt colours and not just black or white.
 
-[![Kodistore](/images/blog/Kodi18Store.webp)](https://teespring.com/stores/kodi-18-leia-store)
+[![Kodistore](/images/blog/Kodi18Store.jpeg)](https://teespring.com/stores/kodi-18-leia-store)
 
 ## Changelog
 

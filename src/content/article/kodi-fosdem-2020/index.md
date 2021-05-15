@@ -5,7 +5,7 @@ tags:
   - Conferences
 author: Team Kodi
 featured_image:
-  src: /images/blog/Fosdem.webp
+  src: /images/blog/Fosdem.jpeg
   title: "Kodi at Fosdem"
   alt: "Kodi at Fosdem"
 ---

@@ -5,7 +5,7 @@ tags:
   - Release
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kodi-Wallpaper-9A-1080p_samfisher.webp
+  src: /images/blog/Kodi-Wallpaper-9A-1080p_samfisher.jpeg
   title: "Kodi-Wallpaper-9A-1080p_samfisher"
   alt: "Kodi-Wallpaper-9A-1080p_samfisher"
 ---

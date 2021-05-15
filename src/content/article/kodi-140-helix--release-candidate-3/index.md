@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Splash1.webp
+  src: /images/blog/Splash1.jpeg
   title: "Splash1"
   alt: "Splash1"
 ---
@@ -56,7 +56,7 @@ The release can be found on our official download page as mentioned below. This 
 
 ## The first ever Kodi T-Shirt
 
-[![](/images/blog/kodishirt.webp)](https://teespring.com/kodiheroshirt2014)Because of your generosity in t-shirt sales, straight-up donations, and word-of-mouth evangelizing, this project has lasted for 12 years and through four different names, and with your help, we all believe it can last twice that long again. This is the very first t-shirt sale we’re doing with the new Kodi logo design. We’re mostly doing this sale because our developers wanted a cool new shirt, but we figured we probably weren’t the only ones. So if you’d like the very first official Kodi shirt, have at it. Just follow the [link](https://teespring.com/kodiheroshirt2014) to get it.
+[![](/images/blog/kodishirt.jpeg)](https://teespring.com/kodiheroshirt2014)Because of your generosity in t-shirt sales, straight-up donations, and word-of-mouth evangelizing, this project has lasted for 12 years and through four different names, and with your help, we all believe it can last twice that long again. This is the very first t-shirt sale we’re doing with the new Kodi logo design. We’re mostly doing this sale because our developers wanted a cool new shirt, but we figured we probably weren’t the only ones. So if you’d like the very first official Kodi shirt, have at it. Just follow the [link](https://teespring.com/kodiheroshirt2014) to get it.
 
 ###
 

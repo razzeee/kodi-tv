@@ -5,7 +5,7 @@ tags:
   - Developer
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/gsoc_2018.webp
+  src: /images/blog/gsoc_2018.jpeg
   title: "gsoc_2018"
   alt: "gsoc_2018"
 ---

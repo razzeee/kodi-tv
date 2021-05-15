@@ -6,7 +6,7 @@ tags:
   - Developer
 author: Kib
 featured_image:
-  src: /images/blog/move_succeedeed.webp
+  src: /images/blog/move_succeedeed.jpeg
   title: "move_succeedeed"
   alt: "move_succeedeed"
 ---

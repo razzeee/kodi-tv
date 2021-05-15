@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kodi_Blog_Blueprint_Leia_900x336.webp
+  src: /images/blog/Kodi_Blog_Blueprint_Leia_900x336.jpeg
   title: "Kodi_Blog_Blueprint_Leia_900x336"
   alt: "Kodi_Blog_Blueprint_Leia_900x336"
 ---

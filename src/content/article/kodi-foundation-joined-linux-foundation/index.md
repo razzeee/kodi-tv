@@ -6,7 +6,7 @@ tags:
   - Developer
 author: Cris Silva (h.udo)
 featured_image:
-  src: /images/blog/LinuxFoundation.webp
+  src: /images/blog/LinuxFoundation.jpeg
   title: "Linux Foundation"
   alt: "Linux Foundation"
 ---

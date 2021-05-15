@@ -6,7 +6,7 @@ tags:
 author: Team XBMC
 ---
 
-![](/images/blog/wundergroundLogo_4c-168x101.webp "wundergroundLogo_4c")
+![](/images/blog/wundergroundLogo_4c-168x101.jpeg "wundergroundLogo_4c")
 
 You may have noticed that for the past few weeks the Weather section of XBMC has become unable to provide updated information due to our default weather provider moving to a fully fee-based API. A [brief scramble](https://kodi.wiki/natethomas/2011/11/10/weekend-weather-update/) ensued, and the change provided the kick-in-the-pants we needed to move weather providers into our add-ons framework so that we can send out updates between releases, and allow users to choose between different sources much more easily.
 

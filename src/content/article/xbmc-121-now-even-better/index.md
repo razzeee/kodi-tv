@@ -5,7 +5,7 @@ tags:
   - Release
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/zappy-frodo-background-680.webp
+  src: /images/blog/zappy-frodo-background-680.jpeg
   title: "zappy-frodo-background-680"
   alt: "zappy-frodo-background-680"
 ---

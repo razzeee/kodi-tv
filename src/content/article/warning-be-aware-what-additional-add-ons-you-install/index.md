@@ -5,7 +5,7 @@ tags:
   - Community
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/caution-machine_has_no_brain.webp
+  src: /images/blog/caution-machine_has_no_brain.jpeg
   title: "caution-machine_has_no_brain"
   alt: "caution-machine_has_no_brain"
 ---

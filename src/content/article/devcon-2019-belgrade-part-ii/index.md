@@ -6,7 +6,7 @@ tags:
   - DevCon
   - Conferences
 featured_image:
-  src: /images/blog/belgrade-clouds-fortress-33562.webp
+  src: /images/blog/belgrade-clouds-fortress-33562.jpeg
   title: "Kalemegdan Park and Fortress, credit: Miloš Bogdanović, via pexels.com"
   alt: "Kalemegdan Park and Fortress, credit: Miloš Bogdanović, via pexels.com"
 ---

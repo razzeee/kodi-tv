@@ -5,7 +5,7 @@ author: Martijn Kaijser
 tags:
   - Prerelease
 featured_image:
-  src: /images/blog/gotham_splash_beta.webp
+  src: /images/blog/gotham_splash_beta.jpeg
   title: "gotham_splash_beta"
   alt: "gotham_splash_beta"
 ---

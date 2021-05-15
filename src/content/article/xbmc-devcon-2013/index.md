@@ -6,7 +6,7 @@ tags:
   - DevCon
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/IMG_0796.webp
+  src: /images/blog/IMG_0796.jpeg
   title: "IMG_0796"
   alt: "IMG_0796"
 ---
@@ -23,7 +23,7 @@ Much like the previous two DevCons, we’d like to take a moment to thank our De
 
 ## 2013 DevCon T-Shirts
 
-[![tshirt](/images/blog/tshirt.webp)](https://teespring.com/xbmcdevcon2013)We know quite a lot of you last year expressed interest in purchasing a DevCon t-shirt. This year, we took that to heart and started our first ever [t-shirt sale campaign](https://teespring.com/xbmcdevcon2013 "XBMC t-shirt sale"). From now until the 13th of October (the last day of the conference), you have the opportunity to support XBMC, open source software, and the developer beer fund. After that, the shirts go away forever. On the back of each shirt is stamped this year’s DevCon, so people will always know that you were a supporter in one of the most epic XBMC years in history.
+[![tshirt](/images/blog/tshirt.jpeg)](https://teespring.com/xbmcdevcon2013)We know quite a lot of you last year expressed interest in purchasing a DevCon t-shirt. This year, we took that to heart and started our first ever [t-shirt sale campaign](https://teespring.com/xbmcdevcon2013 "XBMC t-shirt sale"). From now until the 13th of October (the last day of the conference), you have the opportunity to support XBMC, open source software, and the developer beer fund. After that, the shirts go away forever. On the back of each shirt is stamped this year’s DevCon, so people will always know that you were a supporter in one of the most epic XBMC years in history.
 
 The rules of this campaign are pretty well exactly like the rules of a Kickstarter campaign. Our printer requires that 100 people order a shirt, and they can ship those shirts worldwide.\* If 100 shirts are ordered, the shirts get printed. Needless to say, way more than 100 can be ordered, if that many people want to buy the devs a beer (or if just one person wants 500 shirts for some reason). If not, nothing gets printed, and nobody is out any money.
 
@@ -43,4 +43,4 @@ It’s time for a guessing game. So many things have happened to XBMC since DevC
 
 But for now, we’re excited to get planning and working. And, once again, for those of you who can make it, we’re excited to see you on Beers, Users, and Devs Night!
 
-[![jump](/images/blog/jump.webp)](/images/blog/jump.webp)
+[![jump](/images/blog/jump.jpeg)](/images/blog/jump.jpeg)

@@ -5,7 +5,7 @@ tags:
   - Conferences
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/kodi fosdem2.webp
+  src: /images/blog/kodi fosdem2.jpeg
   title: "FOSDEM 2019 Logo - with added Kodi"
   alt: "FOSDEM 2019 Logo - with added Kodi"
 ---

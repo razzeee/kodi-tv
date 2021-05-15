@@ -3,7 +3,7 @@ title: "OpenELEC 3.0.0 Released"
 date: 2013-03-24T03:00:00Z
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/openelec20.webp
+  src: /images/blog/openelec20.jpeg
   title: "openelec20"
   alt: "openelec20"
 ---

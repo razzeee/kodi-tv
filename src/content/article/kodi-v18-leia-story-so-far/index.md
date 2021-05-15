@@ -5,7 +5,7 @@ tags:
   - Community
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kodi-Wallpaper-36A-1080p_samfisher-header.webp
+  src: /images/blog/Kodi-Wallpaper-36A-1080p_samfisher-header.jpeg
   title: "Kodi-Wallpaper-36A-1080p_samfisher-header"
   alt: "Kodi-Wallpaper-36A-1080p_samfisher-header"
 ---
@@ -46,7 +46,7 @@ Music section also gained lots of improvement for those who cares a lot about ha
 
 Next part is the great feature of Kodi to use it as your Live TV and recording front-end. It’s one of the less well known features as it requires certain knowledge and thinkering to set this up however once it works you’ll love it. To be able to use this you’ll need some extra hardware like a USB tuner or a network tuner like HDHomerun to get the cable or ether signal converted to a video stream. This in combination with one of the PVR server software options like VNSI or TVHeadend (more options are available) you instantly gain a very pleasant TV experience. What has been done over time is improving the usability and stability of this component and trying to make it a great replacement for your normal cable/ether set top box. A starting guide can be found here: [Live TV and PVR/DVR Setup Guide](https://kodi.wiki/view/PVR)
 
-![](/images/blog/v18-Livetv-improvements.webp)
+![](/images/blog/v18-Livetv-improvements.jpeg)
 
 **Windows and UWP**
 
@@ -56,7 +56,7 @@ Now that was out of the way a long lived dream of quite a few became an option a
 
 **Android**
 
-![](/images/blog/Google-assistant-logo.webp)Regarding Android we just continued to do what we started some years ago and that was stripping all custom written code and simply following the official Android standards. When XBMC back then became available for Android a lot of specific code was written to get it running on those low powered devices and we had more capabilities than any other application back then. Over time stock Android improved a lot and basically all what we had custom made was becoming readily available to be used. At that point we started dropping old stuff and just applied the standards which reduced support burden for the developers. Now all that was done we could start looking at new features and from that we gained the [Leanback search integration](https://kodi.tv/article/kodi-v18-android-leanback-suggestions-search-and-voice-typing) on Android TV that shows Kodi content on Android TV itself. We now also include Google Assistant out of the box so theoretically you don’t have to pick up the remote anymore. To be honest it’s still uncomfortable and weird talking to your TV giving it commands. For Android TV Oreo there’s a whole new interface which includes the option to fill so called Channels that shows specific content from your app. We can proudly say that Kodi is actually one of the first applications that actually has this integrated. With the great hidden Kodi feature called Smartplaylists you can now populate the Android TV screen with content you want. For the touch enabled devices we can also say this has improved quite a lot as well make it feel more natural.
+![](/images/blog/Google-assistant-logo.jpeg)Regarding Android we just continued to do what we started some years ago and that was stripping all custom written code and simply following the official Android standards. When XBMC back then became available for Android a lot of specific code was written to get it running on those low powered devices and we had more capabilities than any other application back then. Over time stock Android improved a lot and basically all what we had custom made was becoming readily available to be used. At that point we started dropping old stuff and just applied the standards which reduced support burden for the developers. Now all that was done we could start looking at new features and from that we gained the [Leanback search integration](https://kodi.tv/article/kodi-v18-android-leanback-suggestions-search-and-voice-typing) on Android TV that shows Kodi content on Android TV itself. We now also include Google Assistant out of the box so theoretically you don’t have to pick up the remote anymore. To be honest it’s still uncomfortable and weird talking to your TV giving it commands. For Android TV Oreo there’s a whole new interface which includes the option to fill so called Channels that shows specific content from your app. We can proudly say that Kodi is actually one of the first applications that actually has this integrated. With the great hidden Kodi feature called Smartplaylists you can now populate the Android TV screen with content you want. For the touch enabled devices we can also say this has improved quite a lot as well make it feel more natural.
 
 **Linux**
 

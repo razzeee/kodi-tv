@@ -5,7 +5,7 @@ tags:
   - Community
 author: zag
 featured_image:
-  src: /images/blog/splash_racks.webp
+  src: /images/blog/splash_racks.jpeg
   title: "splash_racks"
   alt: "splash_racks"
 ---

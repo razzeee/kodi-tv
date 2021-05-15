@@ -5,7 +5,7 @@ tags:
   - Community
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/win-vista_enofsupport.webp
+  src: /images/blog/win-vista_enofsupport.jpeg
   title: "win-vista_enofsupport"
   alt: "win-vista_enofsupport"
 ---

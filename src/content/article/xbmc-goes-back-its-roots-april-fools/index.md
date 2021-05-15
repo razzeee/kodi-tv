@@ -5,19 +5,19 @@ tags:
   - April Fools
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/xbmc_immersive.webp
+  src: /images/blog/xbmc_immersive.jpeg
   title: "xbmc_immersive"
   alt: "xbmc_immersive"
 ---
 
-[![](/images/blog/xbmc_immersive-300x169.webp "XBMC with Modern UI skin")](/images/blog/xbmc_immersive.webp)  
+[![](/images/blog/xbmc_immersive-300x169.jpeg "XBMC with Modern UI skin")](/images/blog/xbmc_immersive.jpeg)  
  Sranshaft's Immersive skin is a leading candidate for new default XBMC skin
 
 After extensive contract talks and negotiations, we at XBMC are excited to announce an early agreement to work with Microsoft to replace the now defunct Windows Media Center with XBMC for Modern UI (formerly “Metro”) using a new skin, such as [Sranshaft’s Immersive](https://forum.kodi.tv/showthread.php?tid=139712 "Immersive for XBMC").
 
 This agreement is quite an opportunity for the Team. While we cannot yet go into full details, Microsoft is essentially performing what is called an “acqui-hire.” As the codebase is licensed under the GPL, it’s impossible to put the figurative genie back into the bottle. So instead, rather than acquiring the company that owns the code, they are electing to acquire the people who spend the most time working on the code.
 
-The good news is that this means the entirety of Team XBMC will be working, in the very near future, full time on all that XBMC goodness you’ve grown to love. The even better news is that we will, officially, be porting XBMC to Windows 8, Windows RT, and Windows phones, along with the future Windows [Blue](https://kodi.wiki/wp-content/uploads/2013/04/bsod.webp "Windows Blue"). As a very substantial portion of our user base is Windows users, this will be awesome news indeed. Likewise, I think it can be said without fear of doubt that Windows RT has been and will continue to be a resounding success as an embedded platform, and we are excited to join in that success!
+The good news is that this means the entirety of Team XBMC will be working, in the very near future, full time on all that XBMC goodness you’ve grown to love. The even better news is that we will, officially, be porting XBMC to Windows 8, Windows RT, and Windows phones, along with the future Windows [Blue](https://kodi.wiki/wp-content/uploads/2013/04/bsod.jpeg "Windows Blue"). As a very substantial portion of our user base is Windows users, this will be awesome news indeed. Likewise, I think it can be said without fear of doubt that Windows RT has been and will continue to be a resounding success as an embedded platform, and we are excited to join in that success!
 
 The only big downside is that, unfortunately, we must make some tough decisions about where to put our resources. To that end, all current XBMC Team members will, from this point forward, be wrapping up any current work on non-Windows platforms. With the release of XBMC 13, the official version of XBMC will revert to a single, exciting platform.
 

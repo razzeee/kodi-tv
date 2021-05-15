@@ -6,7 +6,7 @@ tags:
   - Developer
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/hd-audio-announce.webp
+  src: /images/blog/hd-audio-announce.jpeg
   title: "hd-audio-announce"
   alt: "hd-audio-announce"
 ---

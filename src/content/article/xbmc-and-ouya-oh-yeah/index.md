@@ -6,7 +6,7 @@ tags:
   - Developer
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/zappy-ouya-announce1.webp
+  src: /images/blog/zappy-ouya-announce1.jpeg
   title: "zappy-ouya-announce1"
   alt: "zappy-ouya-announce1"
 ---

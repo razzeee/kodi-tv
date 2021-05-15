@@ -64,7 +64,7 @@ function Page() {
       <FullWidthHeroCarousel
         slides={[
           {
-            image: "/images/heroes/ultimate-mediacenter.webp",
+            image: "/images/heroes/ultimate-mediacenter.jpeg",
             title: "Kodi is the ultimate",
             subtitle: "entertainment center",
             description:
@@ -73,7 +73,7 @@ function Page() {
             buttontext: "Tell Me More",
           },
           {
-            image: "/images/heroes/addons.webp",
+            image: "/images/heroes/addons.jpeg",
             title: "There is an",
             subtitle: "Add-on for that",
             description:
@@ -82,7 +82,7 @@ function Page() {
             buttontext: "Browse Add-ons",
           },
           {
-            image: "/images/heroes/community.webp",
+            image: "/images/heroes/community.jpeg",
             title: "Kodi has a community",
             subtitle: "like no other",
             description:
@@ -91,7 +91,7 @@ function Page() {
             buttontext: "Get Help",
           },
           {
-            image: "/images/kodi-wallpaper-32a-samfisher.webp",
+            image: "/images/kodi-wallpaper-32a-samfisher.jpeg",
             title: "Are you a developer?",
             subtitle: "Join the team!",
             description:
@@ -109,39 +109,39 @@ function Page() {
           subtitle="Kodi puts your smart TV to shame. Kodi plays almost every kind of media you can find and looks great while doing it! Here are just a few things Kodi excels at:"
           items={[
             {
-              imgsrc: "/images/about--music.webp",
+              imgsrc: "/images/about--music.jpeg",
               title: "Music",
               description: `Your music collection has never looked this good! Support for
                     almost every format, playlists, party mixes and more.`,
             },
             {
-              imgsrc: "/images/about--movies.webp",
+              imgsrc: "/images/about--movies.jpeg",
               title: "Movies",
               description: `So much better than a pile of DVDs on a shelf. Kodi brings your
                     movie collection to life with artwork, cast genres and more.`,
             },
             {
-              imgsrc: "/images/about--tvshows.webp",
+              imgsrc: "/images/about--tvshows.jpeg",
               title: "TV Shows",
               description: `Perfect for binge watching or the occasional catch up on your
                     favourite show. Kodi keeps all your tv organised like nothing
                     else.`,
             },
             {
-              imgsrc: "/images/about--photos.webp",
+              imgsrc: "/images/about--photos.jpeg",
               title: "Photos",
               description: `Kodi is the best way to share your photos on the biggest screen
                     in the house with a personal slideshow.`,
             },
             {
-              imgsrc: "/images/about--pvr.webp",
+              imgsrc: "/images/about--pvr.jpeg",
               title: "PVR",
               description: `Kodi allows you to watch and record live TV all from an easy to
                     use interface. It works with a number of popular backends
                     including MediaPortal, MythTV, NextPVR, Tvheadend and many more.`,
             },
             {
-              imgsrc: "/images/about--games.webp",
+              imgsrc: "/images/about--games.jpeg",
               title: "Games",
               description: `Kodi isn"t just for passive entertainment media. You can also
                     play games on Kodi. Pick from a large number of emulators, or
@@ -158,7 +158,7 @@ function Page() {
         url="/about"
         buttontext="Show me all the good bits"
         image={{
-          src: "/images/skin-estuary-example.webp",
+          src: "/images/skin-estuary-example.jpeg",
           title: "Estuary Skin",
           alt: "Estuary Skin showing music artists",
         }}

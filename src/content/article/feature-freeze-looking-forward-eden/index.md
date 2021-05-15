@@ -10,7 +10,7 @@ Today marks the first step in the long-awaited release cycle for Eden: soft-free
 
 As always, the schedule will be dictated by our ability to get things polished up for release. So file those [bug reports](https://kodi.wiki/view/HOW-TO_submit_a_proper_Bug_Report), clone [our repo](https://github.com/xbmc/xbmc) and send a [pull request](https://docs.github.com/send-pull-requests/) for fixes or translations… every little bit helps.
 
-[![](/images/blog/confluence-horizontal.webp "confluence-horizontal")](/images/blog/confluence-horizontal.webp)
+[![](/images/blog/confluence-horizontal.jpeg "confluence-horizontal")](/images/blog/confluence-horizontal.jpeg)
 
 So much has changed since Dharma, we’ll use this space over the coming weeks to discuss in more detail what you can expect in 11.0. For now, Here are a few things you’re sure to notice:
 

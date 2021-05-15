@@ -5,7 +5,7 @@ tags:
   - Developer
 author: Roman Miroshnychenko
 featured_image:
-  src: /images/blog/kplusp.webp
+  src: /images/blog/kplusp.jpeg
   title: "kplusp"
   alt: "kplusp"
 ---

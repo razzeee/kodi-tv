@@ -6,7 +6,7 @@ tags:
   - Developer
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/o-CAT-LAPTOP-facebook.webp
+  src: /images/blog/o-CAT-LAPTOP-facebook.jpeg
   title: "o-CAT-LAPTOP-facebook"
   alt: "o-CAT-LAPTOP-facebook"
 ---

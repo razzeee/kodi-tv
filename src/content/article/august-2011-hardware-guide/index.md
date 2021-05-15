@@ -32,9 +32,9 @@ Simply put, there are only two devices that run any version of XBMC at a cost of
 
 If you haven’t already guessed, these two devices are the first generation of Apple TV and the original Xbox. In all honesty, you would probably be better served simply saving a few dollars and looking a bit further up the htpc chain, as both devices are based on old tech, will not play or decode HD content, and have trouble keeping up with XBMC even now, much less in a year or two down the road.
 
-With that said, if a recommendation had to be given, the Apple TV is the clear winner for two reasons. First, a Dharma 10.1 can be installed on it, unlike the no longer supported Xbox. Second, if you are willing to spend a few more dollars, a [CrystalHD decoder](https://www.ebay.com/sch/i.html?_nkw=bcm970015&amp;_frs=1&amp;_sop=1&amp;_trksid=p3286.c0.m359 "Broadcom CrystalHD decoder") can be installed into the first generation Apple TV, allowing for 1080p decoding. With that said, the combined cost of the first gen Apple TV and a CrystalHD decoder is more expensive than…
+With that said, if a recommendation had to be given, the Apple TV is the clear winner for two reasons. First, a Dharma 10.1 can be installed on it, unlike the no longer supported Xbox. Second, if you are willing to spend a few more dollars, a [CrystalHD decoder](https://www.ebay.com/sch/i.html?_nkw=bcm970015&_frs=1&_sop=1&_trksid=p3286.c0.m359 "Broadcom CrystalHD decoder") can be installed into the first generation Apple TV, allowing for 1080p decoding. With that said, the combined cost of the first gen Apple TV and a CrystalHD decoder is more expensive than…
 
-[![The Apple TV 1](/images/blog/ATV1.webp "The Apple TV 1")](https://www.amazon.com/gp/product/B000MQNMQ6/ref=as_li_ss_tl?ie=UTF8&tag=thfefi02-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B000MQNMQ6)  
+[![The Apple TV 1](/images/blog/ATV1.jpeg "The Apple TV 1")](https://www.amazon.com/gp/product/B000MQNMQ6/ref=as_li_ss_tl?ie=UTF8&tag=thfefi02-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B000MQNMQ6)  
  The Apple TV 1
 
 - The Apple TV 1 can be found for as little as [$65 minus shipping on Amazon](https://www.amazon.com/gp/product/B000MQNMQ6/ref=as_li_ss_tl?ie=UTF8&tag=thfefi02-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B000MQNMQ6 "ATV1 at Amazon"), yet it is still not recommended.
@@ -59,7 +59,7 @@ Finally, the built in decoder on the 2nd Gen Apple TV only decodes h264 video. T
 
 With that said, if you are looking for an inexpensive XBMC box and don’t plan on connecting it to a projector or [73 inch behemoth](https://kodi.wiki/natethomas/2011/08/06/feature-friday-24-terabytes-of-awesome/ "24 TB of Awesome"), then the 2nd Gen Apple TV might be just right for you. In fact, because of its easy Netflix and streaming sports integration into the iOS software (if not the XBMC software), the 2nd Gen Apple TV is arguably a better value than many more expensive recommendations, because those more expensive recommendations either do not have Netflix at all, or require a certain amount of hacking to make Netflix work.
 
-[![2nd Gen Apple TV](/images/blog/apple-tv-2010-300x199.webp "2nd Gen Apple TV")](/images/blog/apple-tv-2010.webp)  
+[![2nd Gen Apple TV](/images/blog/apple-tv-2010-300x199.jpeg "2nd Gen Apple TV")](/images/blog/apple-tv-2010.jpeg)  
  The 2nd Gen Apple TV may be found at Apple.com and Amazon.com for about $99
 
 - The 2nd Gen Apple TV may be found at [Apple.com](https://www.apple.com/tv/?mco=MTM3NTM1Nzk "ATV2 at Apple") and [Amazon.com](https://www.amazon.com/gp/product/B001FA1NK0/ref=as_li_ss_tl?ie=UTF8&tag=thfefi02-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B001FA1NK0 "ATV2 at Amazon.com") for about $99

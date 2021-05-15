@@ -5,7 +5,7 @@ tags:
   - Developer
 author: Team Kodi
 featured_image:
-  src: /images/blog/WinHelpWanted.webp
+  src: /images/blog/WinHelpWanted.jpeg
   title: "Windows Devs, We Need You!"
   alt: "Windows Devs, We Need You!"
 ---
@@ -37,4 +37,4 @@ _The current dependency system is mandatory for compilation on Android, iOS, mac
 
 _Where we're trying to get to with Windows, then, is to have all necessary libraries compiled from source, as an integrated part of the build process, and thus replace the_ download-dependencies.bat*,* download-msys2.bat _and_ make-mingwlibs.bat _scripts._
 
-_The main changes for this can be found here as detailed in this pull request ([link](https://github.com/xbmc/xbmc/pull/16850)). It switches from downloading pre-compiled native executables to building them from source. Target libraries are only switched to compiling from source for_ x86-windows*,* arm-windowsstore*,* x86-windowsstore _and_ x86_64-windowsstore*, because it currently contains only required dependencies. This means those platforms will lose some functionality until the libs are added. This can be done one by one and I can guide anyone who is interested. Once all optional libraries are added,* x86_64-windows _platform can also be switched to this dependency system._
+_The main changes for this can be found here as detailed in this pull request ([link](https://github.com/xbmc/xbmc/pull/16850)). It switches from downloading pre-compiled native executables to building them from source. Target libraries are only switched to compiling from source for_ x86-windows*,* arm-windowsstore*,* x86-windowsstore _and_ x86*64-windowsstore*, because it currently contains only required dependencies. This means those platforms will lose some functionality until the libs are added. This can be done one by one and I can guide anyone who is interested. Once all optional libraries are added,* x86_64-windows \_platform can also be switched to this dependency system.*

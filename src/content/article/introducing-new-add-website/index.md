@@ -5,7 +5,7 @@ tags:
   - Community
 author: zag
 featured_image:
-  src: /images/blog/skins.webp
+  src: /images/blog/skins.jpeg
   title: "skins"
   alt: "skins"
 ---

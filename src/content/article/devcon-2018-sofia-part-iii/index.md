@@ -6,7 +6,7 @@ tags:
   - Conferences
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/kodi-logo-2.webp
+  src: /images/blog/kodi-logo-2.jpeg
   title: "kodi-logo-2"
   alt: "kodi-logo-2"
 ---

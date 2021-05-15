@@ -6,7 +6,7 @@ tags:
 author: Team XBMC
 ---
 
-[![rc_xbmc](/images/blog/rc_xbmc.webp "rc_xbmc")](/images/blog/rc_xbmc.webp)  
+[![rc_xbmc](/images/blog/rc_xbmc.jpeg "rc_xbmc")](/images/blog/rc_xbmc.jpeg)  
  XBMC 11 Eden: RC1, ready for take off.
 
 Today we are excited to announce Eden Release Candidate 1. It has been a productive few weeks since Beta 3, as we’ve ironed out numerous minor (and one or two major) bugs.

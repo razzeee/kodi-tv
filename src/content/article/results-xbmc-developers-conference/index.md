@@ -30,7 +30,7 @@ The XBMC community has always been great about contributing to the translation e
 
 It’s time to knock the dust off of [xbmc.org](https://kodi.wiki/view/Main_Page) and shake things up a bit. We realize that most of our loyal users just go straight to the [XBMC Community Forums](https://forum.kodi.tv/) because that’s where all the good stuff is found, but we’ll be making a concerted effort in the near future to reorganize our site. We hope to make it easier to find the current news and developments all in one place.
 
-![DevCon 2009](https://kodi.tv/files/devcon2009small.webp)  
+![DevCon 2009](https://kodi.tv/files/devcon2009small.jpeg)  
  From left to right: Erez, Pike, Yuvalt, WiSo, vulkanr, vdrfan, elupus, blittan, chadoe, MaestroDD
 
 Watch for these and many other changes in the future. We’ll be sure to let you know as plans unfold. And If you haven’t already, don’t forget to [Vote for XBMC Media Center in the Sourceforge Community Choice Awards](https://sourceforge.net/community/cca09/vote/?f=459)!

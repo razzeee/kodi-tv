@@ -5,7 +5,7 @@ tags:
   - Release
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/kodi-splash-17.1.webp
+  src: /images/blog/kodi-splash-17.1.jpeg
   title: "kodi-splash-17.1"
   alt: "kodi-splash-17.1"
 ---

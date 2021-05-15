@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/kodi-system-15.webp
+  src: /images/blog/kodi-system-15.jpeg
   title: "kodi-system-15"
   alt: "kodi-system-15"
 ---
@@ -16,7 +16,7 @@ Here it is, the second Release Candidate (RC) built for Kodi 15.0; freshly baked
 
 Without a doubt the biggest news this year has been that Kodi is now [available in Google Play](https://play.google.com/store/apps/details?id=org.xbmc.kodi). You can download it at the previous link or using the following QR code.
 
-[![](https://developer.android.com/images/brand/en_generic_rgb_wo_45.webp)](https://play.google.com/store/apps/details?id=org.xbmc.kodi)
+[![](https://developer.android.com/images/brand/en_generic_rgb_wo_45.jpeg)](https://play.google.com/store/apps/details?id=org.xbmc.kodi)
 
 [![](https://chart.googleapis.com/chart?cht=qr&chs=100x100&choe=UTF-8&chld=H|0&chl=https://goo.gl/gvJKBI)](https://play.google.com/store/apps/details?id=org.xbmc.kodi)
 

@@ -5,7 +5,7 @@ tags:
   - Developer
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/early_often.webp
+  src: /images/blog/early_often.jpeg
   title: "early_often"
   alt: "early_often"
 ---

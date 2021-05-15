@@ -5,7 +5,7 @@ tags:
   - Community
 author: DarrenHill
 featured_image:
-  src: /images/blog/analogue-art-chest-366791_1.webp
+  src: /images/blog/analogue-art-chest-366791_1.jpeg
   title: "Repos can be a real Pandora's Box - Photo by David Bartus from Pexels"
   alt: "Repos can be a real Pandora's Box - Photo by David Bartus from Pexels"
 ---

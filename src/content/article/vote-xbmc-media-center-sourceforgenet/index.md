@@ -13,7 +13,7 @@ However now comes the really important part! The actual voting to select SourceF
 - Best Project for Multimedia
 - Most Likely to Change the Way You Do Everything
 
-[![](https://kodi.tv/files/cca_bg211.webp)](https://sourceforge.net/community/cca09/vote/?f=459)
+[![](https://kodi.tv/files/cca_bg211.jpeg)](https://sourceforge.net/community/cca09/vote/?f=459)
 
 Note that if you are not logged in then you will have to give your email address, click “Send My Vote Now!” after you made your choices and then simply go to the link that is mailed to you for identity confirmation. So be sure to follow the instructions in the confirmation message that follows or your vote will not be counted.
 

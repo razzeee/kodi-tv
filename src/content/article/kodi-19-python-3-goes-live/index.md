@@ -5,7 +5,7 @@ tags:
   - Developer
 author: Team Kodi
 featured_image:
-  src: /images/blog/kplusp.webp
+  src: /images/blog/kplusp.jpeg
   title: "Kodi Matrix goes Python 3"
   alt: "Kodi Matrix goes Python 3"
 ---

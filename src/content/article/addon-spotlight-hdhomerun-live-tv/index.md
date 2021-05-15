@@ -5,7 +5,7 @@ tags:
   - Deep Dive
 author: Keith Herrington
 featured_image:
-  src: /images/blog/screenshot004.webp
+  src: /images/blog/screenshot004.jpeg
   title: "screenshot004"
   alt: "screenshot004"
 ---

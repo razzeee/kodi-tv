@@ -5,7 +5,7 @@ tags:
   - Release
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/splash.webp
+  src: /images/blog/splash.jpeg
   title: "Kodi 18.4 Splash Screen"
   alt: "Kodi 18.4 Splash Screen"
 ---

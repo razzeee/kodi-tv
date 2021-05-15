@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kodi-Wallpaper-35C-1080p_samfisher.webp
+  src: /images/blog/Kodi-Wallpaper-35C-1080p_samfisher.jpeg
   title: "Kodi-Wallpaper-35C-1080p_samfisher"
   alt: "Kodi-Wallpaper-35C-1080p_samfisher"
 ---
@@ -91,4 +91,4 @@ _Go to the [Official download page](https://kodi.tv/download) and choose the pla
 
 **_May the force be with you….._**
 
-**_![](/images/blog/K-18L-Comic-Preview.webp)_**
+**_![](/images/blog/K-18L-Comic-Preview.jpeg)_**

@@ -5,7 +5,7 @@ tags:
   - Community
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/v18-Android-Search_Kung-Fury.webp
+  src: /images/blog/v18-Android-Search_Kung-Fury.jpeg
   title: "v18-Android-Search_Kung-Fury"
   alt: "v18-Android-Search_Kung-Fury"
 ---
@@ -40,6 +40,6 @@ Please report any problems on our forum [http://forum.kodi.tv](https://forum.kod
 
 ##### Apparel, donations or getting involved
 
-[![](/images/blog/kodi-black-on-black.webp)](https://kodi.tv/product/kodi-apparel)With Kodi 18 having a galaxy far away theme to it, we decided to take inspiration from the baddest of baddies with this shirt. Vader pioneered black on black. We figured we'd follow his lead. You of course also order other shirt in our [shop](https://kodi.tv/store).
+[![](/images/blog/kodi-black-on-black.jpeg)](https://kodi.tv/product/kodi-apparel)With Kodi 18 having a galaxy far away theme to it, we decided to take inspiration from the baddest of baddies with this shirt. Vader pioneered black on black. We figured we'd follow his lead. You of course also order other shirt in our [shop](https://kodi.tv/store).
 
 Getting involved is quite easy. We encourage you to report problems with these builds on our forum first and after that, if asked, submit bugs on Trac (following this guide: [How to submit a bug report](https://kodi.wiki/view/HOW-TO:Submit_a_bug_report)). Do note that we need detailed information so we can investigate the issue. We also appreciate providing support in our [Forums](https://forum.kodi.tv/ "Kodi Forums") where you can. You can of course also follow or help promote Kodi on all available social networks. Read more on the [get involved](https://kodi.tv/get-involved) page. We are always happy to receive a [donation](https://kodi.tv/contribute/donate "Donate") by which you show your support and appreciation, and t-shirts and Raspberry Pi cases may still be found on the sidebar for purchase. All donations and other income goes towards the XBMC foundation and are typically used for travel to attend conferences, any necessary paperwork and legal fees, purchasing necessary hardware and licenses for developers and hopefully the yearly XBMC Foundation Developers Conference.

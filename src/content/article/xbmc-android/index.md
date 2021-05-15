@@ -6,7 +6,7 @@ tags:
 author: Cory
 ---
 
-![](/images/blog/zappy-android-scaled.webp "zappy-android-scaled")We have been keeping a little secret.. the kind that is so much fun to share when the time comes.
+![](/images/blog/zappy-android-scaled.jpeg "zappy-android-scaled")We have been keeping a little secret.. the kind that is so much fun to share when the time comes.
 
 Today we announce XBMC for Android. Not a remote, not a thin client; the real deal. No root or jailbreak required. XBMC can be launched as an application on your set-top-box, tablet, phone, or wherever else Android may be found.
 

@@ -20,7 +20,7 @@ These are not initial ports, and they are not early development snapshots. Here 
 
 This thing may fit in your pocket, but don’t underestimate its power. Unfortunately, it is seriously lacking in capability due to its limited feature-set revolving around rentals and iTunes. Where’s the fun in that?
 
-      [![](/images/blog/ATV2-small.webp "XBMC_on_ATV2-small")](https://www.youtube.com/v/jHL-0i42UUU)
+      [![](/images/blog/ATV2-small.jpeg "XBMC_on_ATV2-small")](https://www.youtube.com/v/jHL-0i42UUU)
 
 - Full XBMC install, this is not a remote or thin client streamer.
 - No longer is your AppleTV2 chained to iTunes.
@@ -33,7 +33,7 @@ This thing may fit in your pocket, but don’t underestimate its power. Unfortun
 
 What good is a tablet that makes you play by its rules? We at XBMC want our media our way.
 
-      [![](/images/blog/xbmc-ipad-small.webp "XBMC_on_ATV2-small")](https://www.youtube.com/v/2nrKJd5jeMU)
+      [![](/images/blog/xbmc-ipad-small.jpeg "XBMC_on_ATV2-small")](https://www.youtube.com/v/2nrKJd5jeMU)
 
 - You guessed it, this is full-blown XBMC. Not a remote.
 - Launch XBMC like any other app.

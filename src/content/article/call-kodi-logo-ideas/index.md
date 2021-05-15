@@ -5,7 +5,7 @@ tags:
   - Community
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/your_idea-600x336.webp
+  src: /images/blog/your_idea-600x336.jpeg
   title: "your_idea-600x336"
   alt: "your_idea-600x336"
 ---

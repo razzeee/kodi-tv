@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/gotham_splash_beta-600x336.webp
+  src: /images/blog/gotham_splash_beta-600x336.jpeg
   title: "gotham_splash_beta-600x336"
   alt: "gotham_splash_beta-600x336"
 ---

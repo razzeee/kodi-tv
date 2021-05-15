@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Pi_Case_v2_Kodi_gen2.webp
+  src: /images/blog/Pi_Case_v2_Kodi_gen2.jpeg
   title: "Kodi Pi Case v2"
   alt: "Kodi Pi Case v2"
 ---

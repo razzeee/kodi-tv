@@ -5,7 +5,7 @@ tags:
   - April Fools
 author: Cris Silva (h.udo)
 featured_image:
-  src: /images/blog/multipass.webp
+  src: /images/blog/multipass.jpeg
   title: "Kodi MultiPass"
   alt: "Kodi MultiPass"
 ---

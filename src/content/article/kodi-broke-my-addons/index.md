@@ -5,7 +5,7 @@ author: Team Kodi
 tags:
   - Community
 featured_image:
-  src: /images/blog/python_code-johnson_martin_pixabay.webp
+  src: /images/blog/python_code-johnson_martin_pixabay.jpeg
   title: "Image of Python code, credit: Johnson Martin from Pixabay"
   alt: "Image of Python code, credit: Johnson Martin from Pixabay"
 ---

@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kodi_Blog_K-18L_A_900x336.webp
+  src: /images/blog/Kodi_Blog_K-18L_A_900x336.jpeg
   title: "Kodi_Blog_K-18L_A_900x336"
   alt: "Kodi_Blog_K-18L_A_900x336"
 ---
@@ -34,7 +34,7 @@ More will follow at a later point in time when we approach final release.
 
 One of the best sources of information next to our forum for asking question and finding answers is the Kodi [wiki pages](https://kodi.wiki/view/Main_Page). With each release certain aspects of the software change and this of course needs to be reflected on the official wiki pages. Several team members and regular users spend quite some time updating and tweaking these pages to become a helpfull one stop place for all information.
 
-[![](/images/blog/kodi_wiki_main.webp)](https://kodi.wiki/view/Main_Page)
+[![](/images/blog/kodi_wiki_main.jpeg)](https://kodi.wiki/view/Main_Page)
 
 ## The V18 Leia t-shirt
 
@@ -43,7 +43,7 @@ Inspired by the galaxy far, far away theme, our resident artist Sam went above a
 We loved his work so much that we're modeling the Kodi 18 shirt after it along with more art to come. Here it is, our [newest, coolest shirt: K-18L](https://teespring.com/stores/kodi-18-leia-store)  
 (Available in several shirt **colours** and not just black or white)
 
-[![Kodistore](/images/blog/Kodi18Store.webp)](https://teespring.com/stores/kodi-18-leia-store)
+[![Kodistore](/images/blog/Kodi18Store.jpeg)](https://teespring.com/stores/kodi-18-leia-store)
 
 ## The story continues
 
@@ -63,4 +63,4 @@ _Go to the [Official download page](https://kodi.tv/download) and choose the pla
 
 **_May the force be with you….._**
 
-**_![](/images/blog/K-18L-Comic-Preview.webp)_**
+**_![](/images/blog/K-18L-Comic-Preview.jpeg)_**

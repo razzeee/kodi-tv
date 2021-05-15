@@ -5,7 +5,7 @@ tags:
   - Release
 author: Kib
 featured_image:
-  src: /images/blog/Kodi171.webp
+  src: /images/blog/Kodi171.jpeg
   title: "Kodi171"
   alt: "Kodi171"
 ---

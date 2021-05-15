@@ -6,7 +6,7 @@ tags:
   - Deep Dive
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/15.0_skins_august.webp
+  src: /images/blog/15.0_skins_august.jpeg
   title: "15.0_skins_august"
   alt: "15.0_skins_august"
 ---
@@ -19,7 +19,7 @@ We’ve include each with a link to our Kodi add-ons website which lists all add
 
 Not all skins support control using a mouse or touchscreens. This is intentional as the skin developers have decided to only allow control using a remote or controller. Additionally not all support PVR. Please respect these decision of the developers as they have their reasons to do so.
 
-    ![](https://mirrors.kodi.tv/addons/isengard/skin.aeon.nox.5/icon.webp) **Name** Aeon Nox 5: Redux   **Author** BigNoid   **Links**
+    ![](https://mirrors.kodi.tv/addons/isengard/skin.aeon.nox.5/icon.jpeg) **Name** Aeon Nox 5: Redux   **Author** BigNoid   **Links**
 
 - [Kodi website](/addons)
 - [sub-forum](https://forum.kodi.tv/forumdisplay.php?fid=142) (for questions and showing appreciation)
@@ -28,7 +28,7 @@ Not all skins support control using a mouse or touchscreens. This is intentional
 
   **Description** Redux: Completely redesigned to create a modern look, while retaining the classic Aeon feel.
 
-  ![](https://mirrors.kodi.tv/addons/isengard/skin.arctic.zephyr/icon.webp) **Name** Arctic: Zephyr **Author** jurialmonkey **Links**
+  ![](https://mirrors.kodi.tv/addons/isengard/skin.arctic.zephyr/icon.jpeg) **Name** Arctic: Zephyr **Author** jurialmonkey **Links**
 
 - [Kodi website](/addons)
 - [sub-forum](https://forum.kodi.tv/forumdisplay.php?fid=221) (for questions and showing appreciation)
@@ -37,7 +37,7 @@ Not all skins support control using a mouse or touchscreens. This is intentional
 
   **Description** Arctic: Zephyr is the third iteration of the Arctic skin created by jurialmunkey. Arctic focuses on being simple, clean and minimalistic with a light spin.
 
-  ![](https://mirrors.kodi.tv/addons/isengard/skin.back-row/icon.webp) **Name** Back-Row **Author** Sharpe **Links**
+  ![](https://mirrors.kodi.tv/addons/isengard/skin.back-row/icon.jpeg) **Name** Back-Row **Author** Sharpe **Links**
 
 - [Kodi website](/show/skin.back-row)
 - [sub-forum](https://forum.kodi.tv/forumdisplay.php?fid=127) (for questions and showing appreciation)
@@ -46,7 +46,7 @@ Not all skins support control using a mouse or touchscreens. This is intentional
 
   **Description** Back Row is all about recapturing the magic of going to the cinema in your own home. The skin has been designed with this aim in mind but has taken on board many good ideas and suggestions from the XBMC community. Over the years it has become a polished theme that can be easily customised to suit your needs. So go grab some popcorn and fool around on the Back Row.
 
-  ![](https://mirrors.kodi.tv/addons/isengard/skin.blackglassnova/icon.webp) **Name** Black Glass Nova **Author** Tgx **Links**
+  ![](https://mirrors.kodi.tv/addons/isengard/skin.blackglassnova/icon.jpeg) **Name** Black Glass Nova **Author** Tgx **Links**
 
 - [Kodi website](/addon/skins/black-glass-nova)
 - [sub-forum](https://forum.kodi.tv/forumdisplay.php?fid=208) (for questions and showing appreciation)
@@ -55,7 +55,7 @@ Not all skins support control using a mouse or touchscreens. This is intentional
 
   **Description** Ported from MediaPortal, Black Glass Nova is an easy to use and fanart oriented skin designed for Full HD TV screens.
 
-  ![](https://mirrors.kodi.tv/addons/isengard/skin.cirrus.extended/icon.webp) **Name** Cirrus Extended **Author** paradix **Links**
+  ![](https://mirrors.kodi.tv/addons/isengard/skin.cirrus.extended/icon.jpeg) **Name** Cirrus Extended **Author** paradix **Links**
 
 - [Kodi website](/show/skin.cirrus.extended)
 - [sub-forum](https://forum.kodi.tv/forumdisplay.php?fid=133) (for questions and showing appreciation)
@@ -64,7 +64,7 @@ Not all skins support control using a mouse or touchscreens. This is intentional
 
   **Description** An modification on the original Cirrus Extended skin created by Butchabay
 
-  ![](https://mirrors.kodi.tv/addons/isengard/skin.mimic/icon.webp) **Name** Mimic **Author** bryanbrazil **Links**
+  ![](https://mirrors.kodi.tv/addons/isengard/skin.mimic/icon.jpeg) **Name** Mimic **Author** bryanbrazil **Links**
 
 - [Kodi website](/addon/skins/mimic)
 - [sub-forum](https://forum.kodi.tv/forumdisplay.php?fid=218) (for questions and showing appreciation)
@@ -73,7 +73,7 @@ Not all skins support control using a mouse or touchscreens. This is intentional
 
   **Description** Mimic: A Kodi skin with touches of reFocus and Aeon Nox. Many thanks to BigNoid and Jeroen.
 
-  ![](https://mirrors.kodi.tv/addons/isengard/skin.nebula/icon.webp) **Name** Nebula **Author** Tgx **Links**
+  ![](https://mirrors.kodi.tv/addons/isengard/skin.nebula/icon.jpeg) **Name** Nebula **Author** Tgx **Links**
 
 - [Kodi website](/addon/skins/nebula)
 - [sub-forum](https://forum.kodi.tv/forumdisplay.php?fid=211) (for questions and showing appreciation)
@@ -82,7 +82,7 @@ Not all skins support control using a mouse or touchscreens. This is intentional
 
   **Description** Simple and full-featured light or dark color skin designed for Full HD TV screens.
 
-  ![](https://mirrors.kodi.tv/addons/isengard/skin.neon/icon.webp) **Name** Neon **Author** kib, bumpaneer **Links**
+  ![](https://mirrors.kodi.tv/addons/isengard/skin.neon/icon.jpeg) **Name** Neon **Author** kib, bumpaneer **Links**
 
 - [Kodi website](/show/skin.neon)
 - [sub-forum](https://forum.kodi.tv/forumdisplay.php?fid=139) (for questions and showing appreciation)
@@ -91,7 +91,7 @@ Not all skins support control using a mouse or touchscreens. This is intentional
 
   **Description** Neon started as the excellent Night skin by mcborzu, inspiration from djh\_ and liberal amounts of knowledge, code and graphics from Jezz_x’s work on Confluence – all rolled into one by stoli.
 
-  ![](https://mirrors.kodi.tv/addons/isengard/skin.rapier/icon.webp) **Name** Rapier **Author** Gade **Links**
+  ![](https://mirrors.kodi.tv/addons/isengard/skin.rapier/icon.jpeg) **Name** Rapier **Author** Gade **Links**
 
 - [Kodi website](/addon/skins/rapier)
 - [sub-forum](https://forum.kodi.tv/forumdisplay.php?fid=120) (for questions and showing appreciation)
@@ -100,7 +100,7 @@ Not all skins support control using a mouse or touchscreens. This is intentional
 
   **Description** The goal is to provide a simple to use but clean and elegant interface that focuses on efficiency when browsing your media. Important considerations are put on usability, performance, and providing the user with flexibility when it comes to customization. Rapier tries to support all the latest features Kodi has to offer as long as it fits in with the skin’s design goals.
 
-  ![](https://mirrors.kodi.tv/addons/helix/skin.titan/icon.webp) **Name** Titan **Author** marcelveldt **Links**
+  ![](https://mirrors.kodi.tv/addons/helix/skin.titan/icon.jpeg) **Name** Titan **Author** marcelveldt **Links**
 
 - [Kodi website](/addons)
 - [sub-forum](https://forum.kodi.tv/forumdisplay.php?fid=212) (for questions and showing appreciation)
@@ -109,7 +109,7 @@ Not all skins support control using a mouse or touchscreens. This is intentional
 
   **Description** MediaPortal’s Titan skin ported to Kodi enriched with lot’s of features.
 
-  ![](https://mirrors.kodi.tv/addons/isengard/skin.transparency/icon.webp) **Name** Transparency! **Author** ronie **Links**
+  ![](https://mirrors.kodi.tv/addons/isengard/skin.transparency/icon.jpeg) **Name** Transparency! **Author** ronie **Links**
 
 - [Kodi website](/addon/skins/transparency)
 - [sub-forum](https://forum.kodi.tv/forumdisplay.php?fid=115) (for questions and showing appreciation)
@@ -118,7 +118,7 @@ Not all skins support control using a mouse or touchscreens. This is intentional
 
   **Description** What is Transparency!? Short answer: a fanart skin. The main goal of Transparency! is showing your fanart, fullscreen, in all of the views, all of the time. Besides this, it also tries to support every neat new feature Kodi has to offer. To save everyone a lot of time and trouble hacking the xml code themselves, all of these new features are already included in the skin, pre-configured and enabled by default (wherever possible).
 
-  ![](https://mirrors.kodi.tv/addons/isengard/skin.xperience1080/icon.webp) **Name** Xperience1080 **Author** Piers, xhaggi, ‘Black **Links**
+  ![](https://mirrors.kodi.tv/addons/isengard/skin.xperience1080/icon.jpeg) **Name** Xperience1080 **Author** Piers, xhaggi, ‘Black **Links**
 
 - [Kodi website](/addon/skins/xperience1080)
 - [sub-forum](https://forum.kodi.tv/forumdisplay.php?fid=197) (for questions and showing appreciation)

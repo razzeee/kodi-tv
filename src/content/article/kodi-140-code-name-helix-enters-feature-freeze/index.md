@@ -6,7 +6,7 @@ tags:
   - Community
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/kodi-splash.webp
+  src: /images/blog/kodi-splash.jpeg
   title: "kodi-splash"
   alt: "kodi-splash"
 ---

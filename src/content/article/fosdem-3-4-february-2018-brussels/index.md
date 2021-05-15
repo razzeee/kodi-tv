@@ -5,7 +5,7 @@ tags:
   - Conferences
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/fosdem2018-kodi.webp
+  src: /images/blog/fosdem2018-kodi.jpeg
   title: "fosdem2018-kodi"
   alt: "fosdem2018-kodi"
 ---

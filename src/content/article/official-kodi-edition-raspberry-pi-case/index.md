@@ -5,7 +5,7 @@ tags:
   - Community
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/tableEdgeSunlight1920.webp
+  src: /images/blog/tableEdgeSunlight1920.jpeg
   title: "tableEdgeSunlight1920"
   alt: "tableEdgeSunlight1920"
 ---
@@ -18,12 +18,12 @@ After looking long and hard for the ideal design for this case, we found it in F
 
 This case is not only sleek, but also functional. Designed with the Raspberry Pi 3′s superclocked CPU in mind, the aluminum running throughout the Kodi Edition case acts as a passive CPU heat sink, silently and efficiently distributing and expelling the heat. This creative approach allows for the most efficient use of processor and potentially some casual overclocking at the user’s discretion.
 
-[![NORRIS_LOGO](/images/blog/NORRIS_LOGO-160x160.webp)](https://uscnorriscancer.usc.edu/support/)We are excited to work with FLIRC on this project and are doubly excited to announce that a percentage of every sale will go towards cancer research at the [USC Norris Comprehensive Cancer Center](https://uscnorriscancer.usc.edu/support/), where important strides have already been made in treating lymphoma, prostate, and colon cancer, among many other achievements.
+[![NORRIS_LOGO](/images/blog/NORRIS_LOGO-160x160.jpeg)](https://uscnorriscancer.usc.edu/support/)We are excited to work with FLIRC on this project and are doubly excited to announce that a percentage of every sale will go towards cancer research at the [USC Norris Comprehensive Cancer Center](https://uscnorriscancer.usc.edu/support/), where important strides have already been made in treating lymphoma, prostate, and colon cancer, among many other achievements.
 
 The Kodi Edition Raspberry Pi case is a limited edition product. Additional units might be available in the future if there is strong user demand, but for now, get them while you can!
 
-[![GetCaseButtonUKEU](/images/blog/GetCaseButtonUKEU.webp)](https://thepihut.com/products/kodi-edition-raspberry-pi-case)  
+[![GetCaseButtonUKEU](/images/blog/GetCaseButtonUKEU.jpeg)](https://thepihut.com/products/kodi-edition-raspberry-pi-case)  
  [Buy UK/EU](https://thepihut.com/products/kodi-edition-raspberry-pi-case)
 
-[![Buy US](/images/blog/GetCaseButtonUS.webp)](https://flirc.tv/more/raspberry-pi-case-ke)  
+[![Buy US](/images/blog/GetCaseButtonUS.jpeg)](https://flirc.tv/more/raspberry-pi-case-ke)  
  [Buy US](https://flirc.tv/more/raspberry-pi-case-ke)

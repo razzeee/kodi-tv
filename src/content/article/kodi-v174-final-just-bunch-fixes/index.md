@@ -5,7 +5,7 @@ tags:
   - Release
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/kodi_eclipse.webp
+  src: /images/blog/kodi_eclipse.jpeg
   title: "kodi_eclipse"
   alt: "kodi_eclipse"
 ---

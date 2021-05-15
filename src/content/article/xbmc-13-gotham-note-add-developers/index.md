@@ -5,7 +5,7 @@ tags:
   - Community
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/gotham_repo.webp
+  src: /images/blog/gotham_repo.jpeg
   title: "gotham_repo"
   alt: "gotham_repo"
 ---
@@ -73,7 +73,7 @@ List of most important newly added features:
 
 The minimum API version for JSON-RPC is still set at 6.0.0 which only has effect for Add-ons. Any outside application needs to query the JSON-RPC introspect to see what version is available.
 
-You can read up the complete list of changes in a dedicated forum thread that can be found here: [Changes to the JSON-RPC API for XBMC Gotham](https://forum.kodi.tv/showthread.php?tid=98551&amp;pid=1358657)
+You can read up the complete list of changes in a dedicated forum thread that can be found here: [Changes to the JSON-RPC API for XBMC Gotham](https://forum.kodi.tv/showthread.php?tid=98551&pid=1358657)
 
 ### Media information Scrapers
 
@@ -81,7 +81,7 @@ Well this will be the shortest section. Nothing has changed so far and any Frodo
 
 ### Add-on repository
 
-[![gotham_repo2](/images/blog/gotham_repo2-300x186.webp)](/images/blog/gotham_repo2.webp)The main benefit of Gotham will be that it will use the same repository as Frodo. The main advantage is that it will save developers time and effort making separate versions for each XBMC version. If the Add-on works in Frodo it should also work in Gotham. However we would still like to ask to test this thoroughly if this is the case. Another advantage is on our side as it requires less time checking and pushing the Add-ons to the public. If your Add-on user API functions that are only available in Gotham you will need to request it to be added to Gotham only which will only make it available for Gotham users.
+[![gotham_repo2](/images/blog/gotham_repo2-300x186.jpeg)](/images/blog/gotham_repo2.jpeg)The main benefit of Gotham will be that it will use the same repository as Frodo. The main advantage is that it will save developers time and effort making separate versions for each XBMC version. If the Add-on works in Frodo it should also work in Gotham. However we would still like to ask to test this thoroughly if this is the case. Another advantage is on our side as it requires less time checking and pushing the Add-ons to the public. If your Add-on user API functions that are only available in Gotham you will need to request it to be added to Gotham only which will only make it available for Gotham users.
 
 For skins however we will still require separate versions as there are to many changes in the skin engine between Frodo and Gotham. We understand this is a burden on developers scarce time but alas this is part of the continuing development we are doing. Especially for skin developers we have a special “Skin development repo” in which they can provide so called beta versions of their skins to users who are wiling to help test it out before releasing it to the larger audience. This repo has more relaxed rules compared to the official repository to help in providing a stepping stone to the final version. Read more in this dedicated [forum thread](https://forum.kodi.tv/showthread.php?tid=159372).
 

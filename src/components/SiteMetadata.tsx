@@ -10,7 +10,7 @@ export default function MetadataHeader(props: { title: string }) {
 
   return (
     <Helmet>
-      <link rel="icon" type="image/webp" href="/images/icon.webp" />
+      <link rel="icon" type="image/jpeg" href="/images/icon.jpeg" />
       <title>{title}</title>
     </Helmet>
   );

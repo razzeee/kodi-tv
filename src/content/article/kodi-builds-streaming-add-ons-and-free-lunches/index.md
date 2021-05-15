@@ -5,7 +5,7 @@ tags:
   - Community
 author: Cris Silva (h.udo)
 featured_image:
-  src: /images/blog/welder.webp
+  src: /images/blog/welder.jpeg
   title: "Kodi builds, streaming add-ons and free lunches"
   alt: "Kodi builds, streaming add-ons and free lunches"
 ---

@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/13.2-Gotham-beta.webp
+  src: /images/blog/13.2-Gotham-beta.jpeg
   title: "13.2-Gotham-beta"
   alt: "13.2-Gotham-beta"
 ---

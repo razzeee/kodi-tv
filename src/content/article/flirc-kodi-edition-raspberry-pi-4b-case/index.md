@@ -5,7 +5,7 @@ tags:
   - Community
 author: Christian Hewitt
 featured_image:
-  src: /images/blog/pi4_case_featured_image.webp
+  src: /images/blog/pi4_case_featured_image.jpeg
   title: "Raspberry Pi 4B Flirc Case"
   alt: "Raspberry Pi 4B Flirc Case"
 ---

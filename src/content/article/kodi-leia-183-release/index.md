@@ -5,7 +5,7 @@ tags:
   - Release
 author: Cris Silva (h.udo)
 featured_image:
-  src: /images/blog/kodi_18_3_leia.webp
+  src: /images/blog/kodi_18_3_leia.jpeg
   title: "Kodi 18.3 Leia Splashscreen"
   alt: "Kodi 18.3 Leia Splashscreen"
 ---

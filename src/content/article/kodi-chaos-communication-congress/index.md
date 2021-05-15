@@ -5,7 +5,7 @@ tags:
   - Conferences
 author: Team Kodi
 featured_image:
-  src: /images/blog/2017-12-28_Leipzig,_34c3,_Fairy_Dust_(freddy2001)_-_denoised_and_pixelized.webp
+  src: /images/blog/2017-12-28_Leipzig,_34c3,_Fairy_Dust_(freddy2001)_-_denoised_and_pixelized.jpeg
   title: "Photo from 36C3 web page, by Yves Sorge, Flickr"
   alt: "Photo from 36C3 web page, by Yves Sorge, Flickr"
 ---

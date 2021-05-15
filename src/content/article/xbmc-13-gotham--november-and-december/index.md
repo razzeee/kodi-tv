@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/xbmc-gotham-teaser.webp
+  src: /images/blog/xbmc-gotham-teaser.jpeg
   title: "xbmc-gotham-teaser"
   alt: "xbmc-gotham-teaser"
 ---

@@ -6,7 +6,7 @@ tags:
 author: Cory
 ---
 
-![](/images/blog/Sigma-designs-logo-120x101.webp "Sigma-designs-logo")
+![](/images/blog/Sigma-designs-logo-120x101.jpeg "Sigma-designs-logo")
 
 **Update:** There was a typo in Sigma’s press release and our resulting post. Their XBMC port was done on the [SMP 8656](https://www.sigmadesigns.com/set-top-box-iptv-hybrid-socs/) which supports Open GL ES. GLES will also be supported on Sigma’s recently announced [SMP 8910](https://www.sigmadesigns.com/), so this may be a potential target for XBMC as well.
 
@@ -22,7 +22,7 @@ Sigma has also expressed an interest in working directly with XBMC developers ra
 
 This is getting interesting!
 
-[![](/images/blog/sigma-small.webp "Sigma")](/images/blog/sigma-resized.webp)  
+[![](/images/blog/sigma-small.jpeg "Sigma")](/images/blog/sigma-resized.jpeg)  
  To answer a few questions:
 
 - The collaboration has just begun, the above is subject to change.

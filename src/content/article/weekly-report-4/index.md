@@ -26,7 +26,7 @@ Risks
 
 - Calculating dirty regions in lists seems to be hard, say just one item in the list changes without the entire list changing. I doubt it won’t be solvable and alternatively just marking the entire list should still be an ok workaround for now.
 
-![Possible dirty regions in confluence settings screen](/images/blog/PossibleDirtyRegionSettings.webp)  
+![Possible dirty regions in confluence settings screen](/images/blog/PossibleDirtyRegionSettings.jpeg)  
  Figure 1 – Controls possible dirty regions\*
 
 \*)

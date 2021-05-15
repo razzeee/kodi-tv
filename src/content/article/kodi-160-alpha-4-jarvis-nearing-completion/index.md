@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/kodi16.0-jarvis-alpha.webp
+  src: /images/blog/kodi16.0-jarvis-alpha.jpeg
   title: "kodi16.0-jarvis-alpha"
   alt: "kodi16.0-jarvis-alpha"
 ---

@@ -6,7 +6,7 @@ tags:
   - DevCon
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/DevCon2016Teamfoto2.webp
+  src: /images/blog/DevCon2016Teamfoto2.jpeg
   title: "DevCon2016Teamfoto2"
   alt: "DevCon2016Teamfoto2"
 ---
@@ -41,7 +41,7 @@ Just to reiterate from last year, if any devs want to go to any conference or me
 
 Good morning everyone and welcome to the Kodi DevCon 2016 Liveblog. As many of you know, my name is Nate, and much like last year, I’ll be doing my best to update the blog with as much of the content we discuss over the next few days as my jet-lagged brain will allow.
 
-[![IMG_0685](/images/blog/IMG_0685-800x600.webp)](/images/blog/IMG_0685.webp)
+[![IMG_0685](/images/blog/IMG_0685-800x600.jpeg)](/images/blog/IMG_0685.jpeg)
 
 As always, DevCon begins with all the devs who are attending introducing themselves.
 

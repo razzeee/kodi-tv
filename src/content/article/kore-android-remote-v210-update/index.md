@@ -5,7 +5,7 @@ tags:
   - Release
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kore_Artwork_1024x500_v2_samfisher.webp
+  src: /images/blog/Kore_Artwork_1024x500_v2_samfisher.jpeg
   title: "Kore_Artwork_1024x500_v2_samfisher"
   alt: "Kore_Artwork_1024x500_v2_samfisher"
 ---
@@ -33,7 +33,7 @@ There have been several language updates however if you language is missing feel
 
 As of today 2.1.0 has been released as final and should be available for update or installation. Should you wish to help us out on further testing and improving you can enter our beta program where you receive regular updates. Go here: [Kore beta testing program](https://play.google.com/apps/testing/org.xbmc.kore). All your devices running Kore and logged under the same Play Store account will receive early updates. You can opt out any time you like of course. For regular downloads you can just go to the Play Store and find Kore.
 
-    **Kore™ (Android)**   [![](https://developer.android.com/images/brand/en_generic_rgb_wo_45.webp)](https://play.google.com/store/apps/details?id=org.xbmc.kore)     [![](https://developer.android.com/images/brand/en_generic_rgb_wo_45.webp)](https://play.google.com/apps/testing/org.xbmc.kore)       [**Official release**](https://play.google.com/store/apps/details?id=org.xbmc.kore) [**Beta testing program**](https://play.google.com/apps/testing/org.xbmc.kore)
+    **Kore™ (Android)**   [![](https://developer.android.com/images/brand/en_generic_rgb_wo_45.jpeg)](https://play.google.com/store/apps/details?id=org.xbmc.kore)     [![](https://developer.android.com/images/brand/en_generic_rgb_wo_45.jpeg)](https://play.google.com/apps/testing/org.xbmc.kore)       [**Official release**](https://play.google.com/store/apps/details?id=org.xbmc.kore) [**Beta testing program**](https://play.google.com/apps/testing/org.xbmc.kore)
 
 For support and questions visit our [forum](https://forum.kodi.tv/forumdisplay.php?fid=129).
 
@@ -103,4 +103,4 @@ As of this moment, it is available from [Play Store](https://play.google.com/sto
 
 Here are some screenshots showing it in action on a normal Android phone.
 
-    [![Kore_12-15_01](/images/blog/Kore_12-15_01-168x300.webp)](/images/blog/Kore_12-15_01.webp) [![Kore_12-15_02](/images/blog/Kore_12-15_02-168x300.webp)](/images/blog/Kore_12-15_02.webp) [![Kore_12-15_03](/images/blog/Kore_12-15_03-168x300.webp)](/images/blog/Kore_12-15_03.webp)   [![Kore_12-15_04](/images/blog/Kore_12-15_04-168x300.webp)](/images/blog/Kore_12-15_04.webp) [![Kore_12-15_05](/images/blog/Kore_12-15_05-168x300.webp)](/images/blog/Kore_12-15_05.webp) [![Kore_12-15_06](/images/blog/Kore_12-15_06-168x300.webp)](/images/blog/Kore_12-15_06.webp)   [![Kore_12-15_07](/images/blog/Kore_12-15_07-168x300.webp)](/images/blog/Kore_12-15_07.webp) [![Kore_12-15_08](/images/blog/Kore_12-15_08-168x300.webp)](/images/blog/Kore_12-15_08.webp) [![Kore_12-15_09](/images/blog/Kore_12-15_09-168x300.webp)](/images/blog/Kore_12-15_09.webp)   [![Kore_12-15_11](/images/blog/Kore_12-15_11-168x300.webp)](/images/blog/Kore_12-15_11.webp) [![Kore_12-15_12](/images/blog/Kore_12-15_12-168x300.webp)](/images/blog/Kore_12-15_12.webp) [![Kore_12-15_13](/images/blog/Kore_12-15_13-168x300.webp)](/images/blog/Kore_12-15_13.webp)
+    [![Kore_12-15_01](/images/blog/Kore_12-15_01-168x300.jpeg)](/images/blog/Kore_12-15_01.jpeg) [![Kore_12-15_02](/images/blog/Kore_12-15_02-168x300.jpeg)](/images/blog/Kore_12-15_02.jpeg) [![Kore_12-15_03](/images/blog/Kore_12-15_03-168x300.jpeg)](/images/blog/Kore_12-15_03.jpeg)   [![Kore_12-15_04](/images/blog/Kore_12-15_04-168x300.jpeg)](/images/blog/Kore_12-15_04.jpeg) [![Kore_12-15_05](/images/blog/Kore_12-15_05-168x300.jpeg)](/images/blog/Kore_12-15_05.jpeg) [![Kore_12-15_06](/images/blog/Kore_12-15_06-168x300.jpeg)](/images/blog/Kore_12-15_06.jpeg)   [![Kore_12-15_07](/images/blog/Kore_12-15_07-168x300.jpeg)](/images/blog/Kore_12-15_07.jpeg) [![Kore_12-15_08](/images/blog/Kore_12-15_08-168x300.jpeg)](/images/blog/Kore_12-15_08.jpeg) [![Kore_12-15_09](/images/blog/Kore_12-15_09-168x300.jpeg)](/images/blog/Kore_12-15_09.jpeg)   [![Kore_12-15_11](/images/blog/Kore_12-15_11-168x300.jpeg)](/images/blog/Kore_12-15_11.jpeg) [![Kore_12-15_12](/images/blog/Kore_12-15_12-168x300.jpeg)](/images/blog/Kore_12-15_12.jpeg) [![Kore_12-15_13](/images/blog/Kore_12-15_13-168x300.jpeg)](/images/blog/Kore_12-15_13.jpeg)

@@ -5,7 +5,7 @@ tags:
   - Community
 author: Christian Hewitt
 featured_image:
-  src: /images/blog/kodi_news.webp
+  src: /images/blog/kodi_news.jpeg
   title: "kodi_news"
   alt: "kodi_news"
 ---

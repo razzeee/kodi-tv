@@ -5,7 +5,7 @@ tags:
   - Developer
 author: Cris Silva (h.udo)
 featured_image:
-  src: /images/blog/gsoc_2018.webp
+  src: /images/blog/gsoc_2018.jpeg
   title: "Kodi Google Summer of Code"
   alt: "Kodi Google Summer of Code"
 ---

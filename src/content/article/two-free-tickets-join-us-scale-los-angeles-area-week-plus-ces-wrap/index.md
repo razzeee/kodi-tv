@@ -5,7 +5,7 @@ tags:
   - Conferences
 author: Keith Herrington
 featured_image:
-  src: /images/blog/14x_logo_lg.webp
+  src: /images/blog/14x_logo_lg.jpeg
   title: "14x_logo_lg"
   alt: "14x_logo_lg"
 ---
@@ -14,7 +14,7 @@ We’re attending the [Southern California Linux Expo](https://www.socallinuxexp
 
 (Tickets have been given out, thanks for playing)
 
-![CES logo](https://blog.1000bulbs.com/wp-content/uploads/2015/01/CES-Logo.webp)
+![CES logo](https://blog.1000bulbs.com/wp-content/uploads/2015/01/CES-Logo.jpeg)
 
 Last month we also attended the Consumer Electronics Show (CES) in Las Vegas. We’ve finally recovered enough to do a little write up of the exhausting week.
 
@@ -22,7 +22,7 @@ This was our 2nd year attending CES and we’re finally starting to get into the
 
 We spoke to many vendors requesting meetings, specifically targeting Android TV, the platform has evolved very well since release and has become more important since we released our software in the Google Play store.
 
-![MINIX Pic](https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xat1/v/t1.0-9/12541037_10153266268686641_3666072770301903049_n.webp?oh=cb169108e1061b8e27656d9c659e609b&oe=5737C473)
+![MINIX Pic](https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xat1/v/t1.0-9/12541037_10153266268686641_3666072770301903049_n.jpeg?oh=cb169108e1061b8e27656d9c659e609b&oe=5737C473)
 
 The majority of our meetings could be put into 3 distinct categories:
 

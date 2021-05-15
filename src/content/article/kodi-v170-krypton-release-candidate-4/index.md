@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kodi-Wallpaper-15B-1080p_samfisher.webp
+  src: /images/blog/Kodi-Wallpaper-15B-1080p_samfisher.jpeg
   title: "Kodi-Wallpaper-15B-1080p_samfisher"
   alt: "Kodi-Wallpaper-15B-1080p_samfisher"
 ---
@@ -44,7 +44,7 @@ Should you want to download and install this build please visit our download pag
 • [Official Kodi 17.0 development downloads](/download)
 
 Of course we have also updated Windows Store with this latest version which will be updated in due time so please have some patience.  
-[![Get it on Windows 10](https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.webp)](https://www.microsoft.com/p/kodi/9nblggh4t892?cid=koditvlinkbadge)
+[![Get it on Windows 10](https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.jpeg)](https://www.microsoft.com/p/kodi/9nblggh4t892?cid=koditvlinkbadge)
 
 ### Bug reports
 

@@ -6,7 +6,7 @@ tags:
   - Developer
 author: Memphiz
 featured_image:
-  src: /images/blog/Jailbreak-the-Apple-TV-2-With-Seas0nPass.webp
+  src: /images/blog/Jailbreak-the-Apple-TV-2-With-Seas0nPass.jpeg
   title: "Jailbreak-the-Apple-TV-2-With-Seas0nPass"
   alt: "Jailbreak-the-Apple-TV-2-With-Seas0nPass"
 ---

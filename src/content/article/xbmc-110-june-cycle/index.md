@@ -32,4 +32,4 @@ Also, as you no doubt may notice, there are fewer big features this month as mor
 
 [OSX is now available!](http://mirrors.xbmc.org/snapshots/osx/ "XBMC for OSX June Snapshot")
 
-[…](/images/blog/zappy.webp "...")
+[…](/images/blog/zappy.jpeg "...")

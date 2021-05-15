@@ -6,7 +6,7 @@ tags:
 author: Nathan Betzen
 ---
 
-![Meetup](https://www.joshrimer.com/wp-content/uploads/2010/07/meetup_logo_1.webp "Meetup")After discussion, the Team has agreed on a time and place for this meetup, and we’re all very excited to actually get to meet a few of you in person. Details below. And if you’re even thinking about going, please say so below. We don’t need a headcount, but it really can’t hurt.
+![Meetup](https://www.joshrimer.com/wp-content/uploads/2010/07/meetup_logo_1.jpeg "Meetup")After discussion, the Team has agreed on a time and place for this meetup, and we’re all very excited to actually get to meet a few of you in person. Details below. And if you’re even thinking about going, please say so below. We don’t need a headcount, but it really can’t hurt.
 
 ### XBMC Meetup
 

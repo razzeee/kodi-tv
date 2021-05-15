@@ -7,7 +7,7 @@ tags:
   - DevCon
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/Screen-Shot-2014-09-22-at-1.04.58-PM.webp
+  src: /images/blog/Screen-Shot-2014-09-22-at-1.04.58-PM.jpeg
   title: "Screen-Shot-2014-09-22-at-1.04.58-PM"
   alt: "Screen-Shot-2014-09-22-at-1.04.58-PM"
 ---

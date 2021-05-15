@@ -5,7 +5,7 @@ tags:
   - Community
 author: Team Kodi
 featured_image:
-  src: /images/blog/wesley-tingey-9z9fxr_7Z-k-unsplash.webp
+  src: /images/blog/wesley-tingey-9z9fxr_7Z-k-unsplash.jpeg
   title: "Photo of gavel by Wesley Tingey (Unsplash)"
   alt: "Photo of gavel by Wesley Tingey (Unsplash)"
 ---

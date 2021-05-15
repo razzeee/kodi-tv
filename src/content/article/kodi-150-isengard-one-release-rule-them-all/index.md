@@ -5,7 +5,7 @@ tags:
   - Release
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/Kodi-Isengard-2C2-1080p-Original-Size.webp
+  src: /images/blog/Kodi-Isengard-2C2-1080p-Original-Size.jpeg
   title: "Kodi-Isengard-2C2-1080p-Original-Size"
   alt: "Kodi-Isengard-2C2-1080p-Original-Size"
 ---
@@ -16,7 +16,7 @@ We are proud to announce the release of Kodi 15.0. No new name this time around,
 
 Perhaps the biggest news for Kodi 15 isn’t a feature at all, but rather the official release of Kodi for Android in the Google Play store. As of the time of this writing, there are just over 400,000 active installs from Google Play after having been released a mere 36 days ago. You can install Kodi for Android from the download link below.
 
-[![Get it on Google Play](https://developer.android.com/images/brand/en_generic_rgb_wo_45.webp)](https://play.google.com/store/apps/details?id=org.xbmc.kodi)
+[![Get it on Google Play](https://developer.android.com/images/brand/en_generic_rgb_wo_45.jpeg)](https://play.google.com/store/apps/details?id=org.xbmc.kodi)
 
 You are also welcome to continue sideloading it from the Kodi downloads page.
 
@@ -32,15 +32,15 @@ Across platforms, Kodi itself has gained quite a lot of features. Some notable e
 
 **• Audio and Subtitle Lists** – For content that includes multiple audio and subtitle choices, you can select from a full list of choices, rather than manually searching through a spinner.
 
-[![screenshot001](/images/blog/screenshot001-800x441.webp)](/images/blog/screenshot001.webp)
+[![screenshot001](/images/blog/screenshot001-800x441.jpeg)](/images/blog/screenshot001.jpeg)
 
 **• Language Add-ons and Expanded International Preferences** – Now language translations aren’t dependent upon release, but get regularly updated to all users as the add-ons themselves update. Additionally, you now have total control over date, time, temperature and more displayed formats.
 
-[![screenshot002](/images/blog/screenshot002-800x441.webp)](/images/blog/screenshot002.webp)
+[![screenshot002](/images/blog/screenshot002-800x441.jpeg)](/images/blog/screenshot002.jpeg)
 
 • **Improved Add-on Manager** – The add-on manager has now been reworked to help make finding the add-ons you are looking for easier.
 
-[![screenshot002](/images/blog/screenshot0022-800x411.webp)](/images/blog/screenshot0022.webp)
+[![screenshot002](/images/blog/screenshot0022-800x411.jpeg)](/images/blog/screenshot0022.jpeg)
 
 ## Additional Improvements and Changes
 
@@ -71,12 +71,12 @@ Across platforms, Kodi itself has gained quite a lot of features. Some notable e
 
 ## DirectX 11 upgrade (not included in 15.0)
 
-[![DX11](/images/blog/DX11.webp)](/images/blog/DX11.webp)Although this release post is all about the 15.0 version, mentioning the DX11 upgrade for Kodi 16 is very important. One of our developers _afedchin_ took on this task and completely revised our DirectX 9 implementation and upgraded it to the more current standard of DirectX 11. Don’t worry if you still have an older card, we only use low level features so you don’t need to run to the shop for new gear. If you are having problems on Windows you can head to our forum where you can find the most recent build available which is currently based on our 15.0 release. We appreciate all the feedback we can get. Read more: [here](https://forum.kodi.tv/showthread.php?tid=218274). Again this will not be part of our final 15.0 release, it will be in 16.0.
+[![DX11](/images/blog/DX11.jpeg)](/images/blog/DX11.jpeg)Although this release post is all about the 15.0 version, mentioning the DX11 upgrade for Kodi 16 is very important. One of our developers _afedchin_ took on this task and completely revised our DirectX 9 implementation and upgraded it to the more current standard of DirectX 11. Don’t worry if you still have an older card, we only use low level features so you don’t need to run to the shop for new gear. If you are having problems on Windows you can head to our forum where you can find the most recent build available which is currently based on our 15.0 release. We appreciate all the feedback we can get. Read more: [here](https://forum.kodi.tv/showthread.php?tid=218274). Again this will not be part of our final 15.0 release, it will be in 16.0.
 
 ## Kodi Protest Shirt
 
 To celebrate the release of Kodi 15 “Isengard” (and because multiple people have requested it), we’ve decided to re-launch this campaign until the end of this month. We do not have plans to relaunch the campaign after that.  
-[![kodiprotestcollection](/images/blog/kodiprotestcollection-450x600.webp)](https://fabrily.com/kodi-protest-collection)
+[![kodiprotestcollection](/images/blog/kodiprotestcollection-450x600.jpeg)](https://fabrily.com/kodi-protest-collection)
 
 ## Download
 

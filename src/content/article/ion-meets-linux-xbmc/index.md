@@ -6,7 +6,7 @@ author: Team XBMC
 
 The folks at AnandTech [reviewed](https://www.anandtech.com/mb/showdoc.aspx?i=3630) two IONs which, due to XBMC’s VDPAU support, make decent platforms for cheap linux based HTPCs capable of playing HD content.
 
-[![](../../donj/files/ionmainboards.webp)](../../donj/files/ionmainboards.webp)
+[![](../../donj/files/ionmainboards.jpeg)](../../donj/files/ionmainboards.jpeg)
 
 A section which you might of particular interest is titled [Ion Meets Linux: XBMC](https://www.anandtech.com/mb/showdoc.aspx?i=3630&p=11):
 

@@ -6,7 +6,7 @@ tags:
   - Deep Dive
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/header_skin_stats_2014.webp
+  src: /images/blog/header_skin_stats_2014.jpeg
   title: "header_skin_stats_2014"
   alt: "header_skin_stats_2014"
 ---

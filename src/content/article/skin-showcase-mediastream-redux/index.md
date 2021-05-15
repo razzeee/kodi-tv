@@ -14,7 +14,7 @@ Jezz_X has been kind enough to announce the initial public release of his person
 
 And much much more. Enjoy a preview of what the MediaStream Redux is all about.
 
-[![](/images/blog/screenshot068d.webp)](/theuni/files/mstream1.webp)  
+[![](/images/blog/screenshot068d.jpeg)](/theuni/files/mstream1.jpeg)  
  Click the image for a screenshot gallery
 
 The skin is available for download [here](http://blackbolt.x-scene.com/Jezz_X/download_redux.php), feel free to pass on your thanks to Jezz_X at the [forum thread.](https://forum.kodi.tv/showthread.php?tid=53830)

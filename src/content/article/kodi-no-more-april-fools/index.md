@@ -5,7 +5,7 @@ tags:
   - April Fools
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/XBMC_media_center_main.webp
+  src: /images/blog/XBMC_media_center_main.jpeg
   title: "XBMC_media_center_main"
   alt: "XBMC_media_center_main"
 ---
@@ -24,6 +24,6 @@ We will be reskinning XBMC 3.0.0 to something a bit more appropriate ASAP. But w
 
 In addition, we're excited to announce a [limited 3 day sale for this rename featuring XBMC shirts, mugs, and stickers](https://teespring.com/nextxbmcshirt#pid=374&cid=100046&sid=front)!
 
-[![Kodi Sale](/images/blog/shirtback_0.webp)](https://teespring.com/nextxbmcshirt#pid=374&cid=100046&sid=front)
+[![Kodi Sale](/images/blog/shirtback_0.jpeg)](https://teespring.com/nextxbmcshirt#pid=374&cid=100046&sid=front)
 
 Thanks for sticking with us all these years! And Android, OSX, iOS, and Linux... see ya later!

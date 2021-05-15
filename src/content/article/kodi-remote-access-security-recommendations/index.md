@@ -6,7 +6,7 @@ tags:
   - Deep Dive
 author: Team Kodi
 featured_image:
-  src: /images/blog/password-2781614_1920.webp
+  src: /images/blog/password-2781614_1920.jpeg
   title: "Password combination lock image by Gino Crescoli from Pixabay."
   alt: "Password combination lock image by Gino Crescoli from Pixabay."
 ---

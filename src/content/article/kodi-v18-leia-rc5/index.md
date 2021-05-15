@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kodi_Blog_Motherboard_2D_A_900x336.webp
+  src: /images/blog/Kodi_Blog_Motherboard_2D_A_900x336.jpeg
   title: "Kodi Motherboard"
   alt: "Kodi Motherboard"
 ---
@@ -45,7 +45,7 @@ Inspired by the galaxy far, far away theme, our resident artist Sam went above a
 We loved his work so much that we're modelling the Kodi 18 shirt after it along with more art to come. Here it is, our [newest, coolest shirt: K-18L](https://teespring.com/stores/kodi-18-leia-store)  
 (Available in several shirt **colours** and not just black or white)
 
-[![Kodistore](/images/blog/Kodi18Store.webp)](https://teespring.com/stores/kodi-18-leia-store)
+[![Kodistore](/images/blog/Kodi18Store.jpeg)](https://teespring.com/stores/kodi-18-leia-store)
 
 #### **Release time**
 
@@ -62,4 +62,4 @@ Getting involved is quite easy. Simply take the plunge and start using v18.0 Lei
 
 **_May the source be with you….._**
 
-**_![](/images/blog/K-18L-Comic-Preview.webp)_**
+**_![](/images/blog/K-18L-Comic-Preview.jpeg)_**

@@ -5,7 +5,7 @@ tags:
   - Community
 author: Cris Silva (h.udo)
 featured_image:
-  src: /images/blog/kodi_motherboard.webp
+  src: /images/blog/kodi_motherboard.jpeg
   title: "Kodi motherboard wallpaper"
   alt: "Kodi motherboard wallpaper"
 ---

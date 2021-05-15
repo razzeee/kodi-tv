@@ -6,7 +6,7 @@ tags:
   - Conferences
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/teamkodi-porto-2017.webp
+  src: /images/blog/teamkodi-porto-2017.jpeg
   title: "teamkodi-porto-2017"
   alt: "teamkodi-porto-2017"
 ---

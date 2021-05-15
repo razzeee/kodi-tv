@@ -5,7 +5,7 @@ author: Team Kodi
 tags:
   - Conferences
 featured_image:
-  src: /images/blog/600_468058366.webp
+  src: /images/blog/600_468058366.jpeg
   title: "Sydney Video Technology Group Logo"
   alt: "Sydney Video Technology Group Logo"
 ---

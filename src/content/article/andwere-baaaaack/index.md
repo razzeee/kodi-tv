@@ -5,7 +5,7 @@ tags:
   - April Fools
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/alissa-eady-92378 - compressed.webp
+  src: /images/blog/alissa-eady-92378 - compressed.jpeg
   title: "alissa-eady-92378 - compressed"
   alt: "alissa-eady-92378 - compressed"
 ---

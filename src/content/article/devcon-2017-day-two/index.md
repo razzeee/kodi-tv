@@ -6,7 +6,7 @@ tags:
   - Conferences
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/wetek_play_front.webp
+  src: /images/blog/wetek_play_front.jpeg
   title: "wetek_play_front"
   alt: "wetek_play_front"
 ---

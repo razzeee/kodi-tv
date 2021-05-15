@@ -17,7 +17,7 @@ We need some poster designs from you guys, by the end of this week. The prize is
 4.  A ‘cloud’ with the names of the third-party open source (library) projects we depend on, with “XBMC” in the middle, (perhaps with bigger text for bigger projects?)
 5.  Incorporate screenshots from your favorite skins.
 
-[![](https://kodi.tv/files/alternate_5_logo-300x73.webp)](http://downloads.sourceforge.net/xbmc/XBMC_official_logo_package_v1.0.zip)
+[![](https://kodi.tv/files/alternate_5_logo-300x73.jpeg)](http://downloads.sourceforge.net/xbmc/XBMC_official_logo_package_v1.0.zip)
 
 We also need some other stuff for the booth, so if you are not in the mood for poster design, how about a T-shirt design or some pamphlets that we can hand out at the show?
 

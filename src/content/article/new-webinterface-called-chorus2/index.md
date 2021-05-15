@@ -6,7 +6,7 @@ tags:
   - Deep Dive
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/chorus2-artist.webp
+  src: /images/blog/chorus2-artist.jpeg
   title: "chorus2-artist"
   alt: "chorus2-artist"
 ---
@@ -83,7 +83,7 @@ How to get it working
  • To access from the same computer: Open <http://localhost:8080> in a web browser  
  • To access from another computer: Get the IP address for the device running Kodi. Eg “Kodi settings \> System information” and note the IP address and open <http://your-ip-address:8080> in a web browser
 
-    [![chorus2-tv](/images/blog/chorus2-tv-300x168.webp)](/images/blog/chorus2-tv.webp) [![chorus2-movie](/images/blog/chorus2-movie-300x168.webp)](/images/blog/chorus2-movie.webp)   [![chorus2-search](/images/blog/chorus2-search-300x168.webp)](/images/blog/chorus2-search.webp) [![chorus2-artists](/images/blog/chorus2-artists-300x168.webp)](/images/blog/chorus2-artists.webp)   [![chorus2-artist](/images/blog/chorus2-artist-300x168.webp)](/images/blog/chorus2-artist.webp) [![chorus2-settings](/images/blog/chorus2-settings-300x168.webp)](/images/blog/chorus2-settings.webp)   [![chorus2-addons](/images/blog/chorus2-addons-300x168.webp)](/images/blog/chorus2-addons.webp) [![chorus2-now-playing](/images/blog/chorus2-now-playing-300x168.webp)](/images/blog/chorus2-now-playing.webp)
+    [![chorus2-tv](/images/blog/chorus2-tv-300x168.jpeg)](/images/blog/chorus2-tv.jpeg) [![chorus2-movie](/images/blog/chorus2-movie-300x168.jpeg)](/images/blog/chorus2-movie.jpeg)   [![chorus2-search](/images/blog/chorus2-search-300x168.jpeg)](/images/blog/chorus2-search.jpeg) [![chorus2-artists](/images/blog/chorus2-artists-300x168.jpeg)](/images/blog/chorus2-artists.jpeg)   [![chorus2-artist](/images/blog/chorus2-artist-300x168.jpeg)](/images/blog/chorus2-artist.jpeg) [![chorus2-settings](/images/blog/chorus2-settings-300x168.jpeg)](/images/blog/chorus2-settings.jpeg)   [![chorus2-addons](/images/blog/chorus2-addons-300x168.jpeg)](/images/blog/chorus2-addons.jpeg) [![chorus2-now-playing](/images/blog/chorus2-now-playing-300x168.jpeg)](/images/blog/chorus2-now-playing.jpeg)
 
 If you have any programming skills or simply want to help get Chorus in your language you can: [contribute here](https://github.com/xbmc/chorus2).
 

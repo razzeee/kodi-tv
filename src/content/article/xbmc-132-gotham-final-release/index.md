@@ -5,7 +5,7 @@ tags:
   - Release
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/xbmc-gotham-13.2-splash.webp
+  src: /images/blog/xbmc-gotham-13.2-splash.jpeg
   title: "xbmc-gotham-13.2-splash"
   alt: "xbmc-gotham-13.2-splash"
 ---
@@ -62,7 +62,7 @@ Should want to download and install this Release Candidate, please visit our dow
 
 ## The Last XBMC Shirt Ever
 
-[![xbmclastshirt](/images/blog/xbmclastshirt.webp)](https://teespring.com/lastxbmcshirt1)Because of your generosity in t-shirt sales, straight-up donations, and word-of-mouth evangelizing, this project has lasted for 12 years and through four different names, and with your help, we all believe it can last twice that long again. So we figured we’d offer a t-shirt to commemorate the name change.
+[![xbmclastshirt](/images/blog/xbmclastshirt.jpeg)](https://teespring.com/lastxbmcshirt1)Because of your generosity in t-shirt sales, straight-up donations, and word-of-mouth evangelizing, this project has lasted for 12 years and through four different names, and with your help, we all believe it can last twice that long again. So we figured we’d offer a t-shirt to commemorate the name change.
 
 There’s only one thing. The image at the top of this article is not the final logo. We are working with [doghousemedia](https://doghouse.agency/ "doghousemedia") to truly realize an awesome logo, and we aren’t quite there yet.
 

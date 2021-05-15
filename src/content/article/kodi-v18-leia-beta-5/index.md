@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/K-18L-Comic-Preview.webp
+  src: /images/blog/K-18L-Comic-Preview.jpeg
   title: "K-18L-Comic-Preview"
   alt: "K-18L-Comic-Preview"
 ---
@@ -92,4 +92,4 @@ _Go to the [Official download page](https://kodi.tv/download) and choose the pla
 
 **_May the force be with you….._**
 
-**_![](/images/blog/K-18L-Comic-Preview.webp)_**
+**_![](/images/blog/K-18L-Comic-Preview.jpeg)_**

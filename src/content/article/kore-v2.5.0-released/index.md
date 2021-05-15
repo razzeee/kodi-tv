@@ -5,7 +5,7 @@ tags:
   - Release
 author: Team Kodi
 featured_image:
-  src: /images/blog/Kore_Artwork_1024x500_samfisher.webp
+  src: /images/blog/Kore_Artwork_1024x500_samfisher.jpeg
   title: 'Kodi "Kore" Artwork by samfisher'
   alt: 'Kodi "Kore" Artwork by samfisher'
 ---

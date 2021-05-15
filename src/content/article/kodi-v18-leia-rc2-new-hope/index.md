@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/K-18L-Comic-Preview.webp
+  src: /images/blog/K-18L-Comic-Preview.jpeg
   title: "K-18L-Comic-Preview"
   alt: "K-18L-Comic-Preview"
 ---
@@ -64,7 +64,7 @@ Read more here _[Kodi's GitHub codebase new face and better documentation](https
 
 Next to our forum, some of the best sources for finding answers are the Kodi [wiki pages](https://kodi.wiki/view/Main_Page). With each release certain aspects of the software change and this of course needs to be reflected on the official wiki pages. Several team members and regular users spend quite some time updating and tweaking these pages to become a helpful one stop place for all information.
 
-[![](/images/blog/kodi_wiki_main.webp)](https://kodi.wiki/view/Main_Page)
+[![](/images/blog/kodi_wiki_main.jpeg)](https://kodi.wiki/view/Main_Page)
 
 #### DRM (Digital Rights Management)
 
@@ -84,7 +84,7 @@ Music section also gained lots of improvement for those who cares a lot about ha
 
 Next part is the great feature of Kodi to use it as your Live TV and recording front-end. It’s one of the less well known features as it requires certain knowledge and tinkering to set this up however once it works you’ll love it. To be able to use this you’ll need some extra hardware like a USB tuner or a network tuner like HDHomerun to get the cable or ether signal converted to a video stream. This in combination with one of the PVR server software options like VNSI or TVHeadend (more options are available) you instantly gain a very pleasant TV experience. What has been done over time is improving the usability and stability of this component and trying to make it a great replacement for your normal cable/ether set top box. A starting guide can be found here: [Live TV and PVR/DVR Setup Guide](https://kodi.wiki/view/PVR)
 
-![](/images/blog/v18-Livetv-improvements.webp)
+![](/images/blog/v18-Livetv-improvements.jpeg)
 
 #### Python 2 & 3 compatibility will be enforced
 
@@ -120,7 +120,7 @@ Read more here _[Kodi v18 - Binary add-ons repository](https://kodi.tv/article/k
 
 #### Android, Android TV Leanback suggestions, search and voice typing
 
-![](/images/blog/Google-assistant-logo.webp)Regarding Android we just continued to do what we started some years ago and that was stripping all custom written code and simply following the official Android standards. When XBMC back then became available for Android a lot of specific code was written to get it running on those low powered devices and we had more capabilities than any other application back then. Over time stock Android improved a lot and basically all what we had custom made was becoming readily available to be used. At that point we started dropping old stuff and just applied the standards which reduced support burden for the developers. Now all that was done we could start looking at new features and from that we gained the [Leanback search integration](https://kodi.tv/article/kodi-v18-android-leanback-suggestions-search-and-voice-typing) on Android TV that shows Kodi content on Android TV itself. We now also include Google Assistant out of the box so theoretically you don’t have to pick up the remote anymore. To be honest it’s still uncomfortable and weird talking to your TV giving it commands. For Android TV Oreo there’s a whole new interface which includes the option to fill so called Channels that shows specific content from your app. We can proudly say that Kodi is actually one of the first applications that actually has this integrated. With the great hidden Kodi feature called Smartplaylists you can now populate the Android TV screen with content you want. For the touch enabled devices we can also say this has improved quite a lot as well make it feel more natural.
+![](/images/blog/Google-assistant-logo.jpeg)Regarding Android we just continued to do what we started some years ago and that was stripping all custom written code and simply following the official Android standards. When XBMC back then became available for Android a lot of specific code was written to get it running on those low powered devices and we had more capabilities than any other application back then. Over time stock Android improved a lot and basically all what we had custom made was becoming readily available to be used. At that point we started dropping old stuff and just applied the standards which reduced support burden for the developers. Now all that was done we could start looking at new features and from that we gained the [Leanback search integration](https://kodi.tv/article/kodi-v18-android-leanback-suggestions-search-and-voice-typing) on Android TV that shows Kodi content on Android TV itself. We now also include Google Assistant out of the box so theoretically you don’t have to pick up the remote anymore. To be honest it’s still uncomfortable and weird talking to your TV giving it commands. For Android TV Oreo there’s a whole new interface which includes the option to fill so called Channels that shows specific content from your app. We can proudly say that Kodi is actually one of the first applications that actually has this integrated. With the great hidden Kodi feature called Smartplaylists you can now populate the Android TV screen with content you want. For the touch enabled devices we can also say this has improved quite a lot as well make it feel more natural.
 
 Read more here _[Kodi v18 - Android Leanback suggestions, search and voice typing](https://kodi.tv/article/kodi-v18-android-leanback-suggestions-search-and-voice-typing)_
 
@@ -168,7 +168,7 @@ Inspired by the galaxy far, far away theme, our resident artist Sam went above a
 We loved his work so much that we're modelling the Kodi 18 shirt after it along with more art to come. Here it is, our [newest, coolest shirt: K-18L](https://teespring.com/stores/kodi-18-leia-store)  
 (Available in several shirt **colours** and not just black or white)
 
-[![Kodistore](/images/blog/Kodi18Store.webp)](https://teespring.com/stores/kodi-18-leia-store)
+[![Kodistore](/images/blog/Kodi18Store.jpeg)](https://teespring.com/stores/kodi-18-leia-store)
 
 #### **Release time**
 
@@ -185,4 +185,4 @@ Getting involved is quite easy. Simply take the plunge and start using v18.0 Lei
 
 **_May the source be with you….._**
 
-**_![](/images/blog/K-18L-Comic-Preview.webp)_**
+**_![](/images/blog/K-18L-Comic-Preview.jpeg)_**

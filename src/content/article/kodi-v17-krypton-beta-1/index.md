@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/Splash-Kodi17B1.webp
+  src: /images/blog/Splash-Kodi17B1.jpeg
   title: "Splash-Kodi17B1"
   alt: "Splash-Kodi17B1"
 ---
@@ -24,7 +24,7 @@ It should be noted that this is only the default skin. You are, of course, welco
 
 The Kodi settings area has always seemed to require some sort of advanced degree (or a similar amount of related experience) to navigate effectively. With that in mind, we have spent the better part of a year cleaning up and reorganizing Settings with the ultimate goal of making the section, if not friendly, then at least clearer for new and journeymen Kodi users. We’ve also made it possible to point Kodi to new media sources from the settings menu, a requested feature for many years.
 
-[![v17-settings-1](/images/blog/v17-settings-1-800x450.webp)](/images/blog/v17-settings-1.webp)
+[![v17-settings-1](/images/blog/v17-settings-1-800x450.jpeg)](/images/blog/v17-settings-1.jpeg)
 
 ## An Improved Music Library
 
@@ -34,7 +34,7 @@ Many would argue that the Kodi music library has not seen the same degree of dev
 
 For a full list, see the Kodi [Alpha 3 write-up](/article/kodi-v17-krypton-alpha-3 "Kodi v17 “Krypton” Alpha 3"), but the Live TV and PVR/DVR component of Kodi has seen just as much improvement with Krypton as the music library. **Channels can now be organized by last played**, so if you really only watch 5 or 6 of your 300 channels, those can always be at the top of the list. Timers and Timer Rules are now clearer and better organized and timers are much smarter now. For example, if you set a Timer to record one episode of a show, you can transform it so that it records an entire series. And that’s really only the cream on top. Check the alpha 3 blogpost for more.
 
-[![Finally, only the channels you actually watch need be listed at the top](/images/blog/screenshot0002-800x451.webp)](/images/blog/screenshot0002.webp)  
+[![Finally, only the channels you actually watch need be listed at the top](/images/blog/screenshot0002-800x451.jpeg)](/images/blog/screenshot0002.jpeg)  
  Finally, only the channels you actually watch need be listed at the top
 
 ## VideoPlayer

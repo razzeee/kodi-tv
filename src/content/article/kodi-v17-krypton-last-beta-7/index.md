@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kodi_Xmas.webp
+  src: /images/blog/Kodi_Xmas.jpeg
   title: "Kodi_Xmas"
   alt: "Kodi_Xmas"
 ---
@@ -43,7 +43,7 @@ A new default web interface called Chorus2
 
 Kodi has many hidden secrets and even team members don’t know the full potential it packs. One of those features you might not know is that Kodi also has a web-interface from which you can browse your library and start playback directly on your Kodi device. It’s something we’ve never really promoted that it was available and I’m not really sure why. However the past few years not much was changed to to it and it kinda fell into decay with only minor fixes done to keep it kind of functional. For Kodi v17 this has been radically changed as we have packaged up a brand new default web-interface called Chorus2.
 
-[![chorus2-artist](/images/blog/chorus2-artist-800x450.webp)](/images/blog/chorus2-artist.webp)
+[![chorus2-artist](/images/blog/chorus2-artist-800x450.jpeg)](/images/blog/chorus2-artist.jpeg)
 
 For some screenshot you can visit the release announcement here: [A new webinterface called Chorus2](/article/new-webinterface-called-chorus2). Regardless you’ll see when you install this new update.
 
@@ -58,7 +58,7 @@ As previously noted, this is only a small summary of all the improvements in Kod
 • [Official Kodi 17.0 development downloads](/download)
 
 Of course we have also updated Windows Store with this latest version.  
-[![Get it on Windows 10](https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.webp)](https://www.microsoft.com/p/kodi/9nblggh4t892?cid=koditvlinkbadge)
+[![Get it on Windows 10](https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.jpeg)](https://www.microsoft.com/p/kodi/9nblggh4t892?cid=koditvlinkbadge)
 
 ### Bug reports
 

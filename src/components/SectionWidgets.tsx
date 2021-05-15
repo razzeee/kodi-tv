@@ -84,7 +84,7 @@ function AboutOfficialRemotes() {
           <StaticImage
             className="w-200 h-200"
             alt="Kore QR Code"
-            src="../../static/images/kore-qr.webp"
+            src="../../static/images/kore-qr.jpeg"
           />
         </div>
         <div className="flex flex-col items-center">
@@ -92,7 +92,7 @@ function AboutOfficialRemotes() {
           <StaticImage
             className="w-200 h-200"
             alt="iOS QR Code"
-            src="../../static/images/ios-qr.webp"
+            src="../../static/images/ios-qr.jpeg"
           />
         </div>
       </div>
@@ -234,7 +234,7 @@ function AboutGallery() {
       <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
         <RoundedCardWithImage
           title="Movies"
-          imgsrc="/images/about--movies.webp"
+          imgsrc="/images/about--movies.jpeg"
           imgalt=""
           imgtitle=""
         >
@@ -245,7 +245,7 @@ function AboutGallery() {
 
         <RoundedCardWithImage
           title="TV Shows"
-          imgsrc="/images/about--tvshows.webp"
+          imgsrc="/images/about--tvshows.jpeg"
           imgalt=""
           imgtitle=""
         >
@@ -256,7 +256,7 @@ function AboutGallery() {
 
         <RoundedCardWithImage
           title="Music"
-          imgsrc="/images/about--music.webp"
+          imgsrc="/images/about--music.jpeg"
           imgalt=""
           imgtitle=""
         >
@@ -267,7 +267,7 @@ function AboutGallery() {
 
         <RoundedCardWithImage
           title="Photos"
-          imgsrc="/images/about--photos.webp"
+          imgsrc="/images/about--photos.jpeg"
           imgalt=""
           imgtitle=""
         >
@@ -278,7 +278,7 @@ function AboutGallery() {
 
         <RoundedCardWithImage
           title="PVR"
-          imgsrc="/images/about--pvr.webp"
+          imgsrc="/images/about--pvr.jpeg"
           imgalt=""
           imgtitle=""
         >
@@ -289,7 +289,7 @@ function AboutGallery() {
 
         <RoundedCardWithImage
           title="Games"
-          imgsrc="/images/about--games.webp"
+          imgsrc="/images/about--games.jpeg"
           imgalt=""
           imgtitle=""
         >
@@ -300,7 +300,7 @@ function AboutGallery() {
 
         <RoundedCardWithImage
           title="Skins"
-          imgsrc="/images/about--skins.webp"
+          imgsrc="/images/about--skins.jpeg"
           imgalt=""
           imgtitle=""
         >
@@ -311,7 +311,7 @@ function AboutGallery() {
 
         <RoundedCardWithImage
           title="Add-ons"
-          imgsrc="/images/about--addons.webp"
+          imgsrc="/images/about--addons.jpeg"
           imgalt=""
           imgtitle=""
         >
@@ -326,7 +326,7 @@ function AboutGallery() {
 
         <RoundedCardWithImage
           title="Web Interface"
-          imgsrc="/images/about--webinterface.webp"
+          imgsrc="/images/about--webinterface.jpeg"
           imgalt=""
           imgtitle=""
         >
@@ -340,7 +340,7 @@ function AboutGallery() {
 
         <RoundedCardWithImage
           title="Remote Controls"
-          imgsrc="/images/about--remotes.webp"
+          imgsrc="/images/about--remotes.jpeg"
           imgalt=""
           imgtitle=""
         >

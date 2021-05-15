@@ -3,7 +3,7 @@ title: "Kodi 16: Alpha 3"
 date: 2015-10-02T04:00:00Z
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/kodi16.0-jarvis-alpha.webp
+  src: /images/blog/kodi16.0-jarvis-alpha.jpeg
   title: "kodi16.0-jarvis-alpha"
   alt: "kodi16.0-jarvis-alpha"
 ---

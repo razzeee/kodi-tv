@@ -4,7 +4,7 @@ date: 2009-07-13T04:00:00Z
 author: Team XBMC
 ---
 
-[![](https://kodi.tv/files/custom_cca_logo.webp)](https://sourceforge.net/community/cca09/vote/?f=459)
+[![](https://kodi.tv/files/custom_cca_logo.jpeg)](https://sourceforge.net/community/cca09/vote/?f=459)
 
 There is only one week remaining to vote in this years [SourceForge Community Choice Awards](https://sourceforge.net/community/cca09/vote/?f=459). See the original announcement [here](/vote-for-xbmc-at-sourceforge). If you have not voted yet, please consider taking a moment to show your appreciation for XBMC Media Center. While you are there, check out the other categories as well, there are some really cool applications on the list this year.
 

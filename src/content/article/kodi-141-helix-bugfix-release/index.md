@@ -5,7 +5,7 @@ tags:
   - Release
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/kodi-helix-14.1.webp
+  src: /images/blog/kodi-helix-14.1.jpeg
   title: "kodi-helix-14.1"
   alt: "kodi-helix-14.1"
 ---

@@ -5,7 +5,7 @@ tags:
   - Release
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/Kodi_Splash_v18.8_Leia_Final_1080p.webp
+  src: /images/blog/Kodi_Splash_v18.8_Leia_Final_1080p.jpeg
   title: "Kodi 18.8 Splash Screen"
   alt: "Kodi 18.8 Splash Screen"
 ---

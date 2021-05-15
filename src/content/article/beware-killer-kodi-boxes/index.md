@@ -5,7 +5,7 @@ tags:
   - Community
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/pexels-photo-260314.webp
+  src: /images/blog/pexels-photo-260314.jpeg
   title: "pexels-photo-260314"
   alt: "pexels-photo-260314"
 ---

@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kodi16-rc.webp
+  src: /images/blog/Kodi16-rc.jpeg
   title: "Kodi16-rc"
   alt: "Kodi16-rc"
 ---
@@ -58,7 +58,7 @@ What did change in Kodi 16:
 - • Gives skin developers a more reliable platform to work from and reduce amount of work for adapting to new Kodi versions
 - • Greatly improved audio and video playback in general
 
-  [![Event logging](/images/blog/EventLogging02-300x168.webp)](/images/blog/EventLogging02.webp) [![Scan music to library](/images/blog/Kodi-v16-add_music_scan-300x168.webp)](/images/blog/Kodi-v16-add_music_scan.webp) [![EPG](/images/blog/v16-epg-300x168.webp)](/images/blog/v16-epg.webp) [![v16-recordings](/images/blog/v16-recordings-300x168.webp)](/images/blog/v16-recordings.webp) [![ADSP manager](/images/blog/v16-adsp-manager-300x168.webp)](/images/blog/v16-adsp-manager.webp) [![ADSP Equalizer](/images/blog/v16-adsp-eq-300x168.webp)](/images/blog/v16-adsp-eq.webp) [![v16-addon auto update](/images/blog/v16-addon-auto-update-300x168.webp)](/images/blog/v16-addon-auto-update.webp) [![v16-keyboards](/images/blog/v16-keyboards-300x168.webp)](/images/blog/v16-keyboards.webp)
+  [![Event logging](/images/blog/EventLogging02-300x168.jpeg)](/images/blog/EventLogging02.jpeg) [![Scan music to library](/images/blog/Kodi-v16-add_music_scan-300x168.jpeg)](/images/blog/Kodi-v16-add_music_scan.jpeg) [![EPG](/images/blog/v16-epg-300x168.jpeg)](/images/blog/v16-epg.jpeg) [![v16-recordings](/images/blog/v16-recordings-300x168.jpeg)](/images/blog/v16-recordings.jpeg) [![ADSP manager](/images/blog/v16-adsp-manager-300x168.jpeg)](/images/blog/v16-adsp-manager.jpeg) [![ADSP Equalizer](/images/blog/v16-adsp-eq-300x168.jpeg)](/images/blog/v16-adsp-eq.jpeg) [![v16-addon auto update](/images/blog/v16-addon-auto-update-300x168.jpeg)](/images/blog/v16-addon-auto-update.jpeg) [![v16-keyboards](/images/blog/v16-keyboards-300x168.jpeg)](/images/blog/v16-keyboards.jpeg)
 
 With the list above we only highlighted some of the more noticeable features. The complete list is huge which could fill several pages. A lot of changes went in Kodi 16 like removing old code, splitting up parts in more logical chunks and making it all more resilient to future changes. All these changes are part of a massive change list that only makes sense to developers actually knowing what the source code does. In short we will not bother you with summing up that list. It’s just something that is worth mentioning that not all improvements have to be actual features and are visible to users. We prefer that the program actually works than adding new bells and whistles. Most of the times new features are just a side effect of cleaning up our code.
 
@@ -111,7 +111,7 @@ Please report any problems on our forum [http://forum.kodi.tv](https://forum.kod
 
 In addition to creating Kodi, the members of Team Kodi have created official remotes to be installed on your tablet or phone. These can take control of your Kodi installation from where you browse your movies, tvshows, PVR/DVR, start add-ons and navigate through the interface.
 
-    **Kore™ (Android)** **Official Kodi Remote (iOS)**   [![Google-play-store-icon](/images/blog/Google-play-store-icon-300x112.webp)](/images/blog/Google-play-store-icon.webp) [![](https://devimages.apple.com.edgekey.net/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://itunes.apple.com/en/app/official-xbmc-remote/id520480364)   [![org.xbmc.kore](/images/blog/org.xbmc_.kore_.webp)](https://play.google.com/store/apps/details?id=org.xbmc.kore) [![Official Kodi Remote (iOS)](/images/blog/qrcode.webp)](https://itunes.apple.com/en/app/official-xbmc-remote/id520480364)    Like Kodi itself, both official remotes are free and open source software.
+    **Kore™ (Android)** **Official Kodi Remote (iOS)**   [![Google-play-store-icon](/images/blog/Google-play-store-icon-300x112.jpeg)](/images/blog/Google-play-store-icon.jpeg) [![](https://devimages.apple.com.edgekey.net/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://itunes.apple.com/en/app/official-xbmc-remote/id520480364)   [![org.xbmc.kore](/images/blog/org.xbmc_.kore_.jpeg)](https://play.google.com/store/apps/details?id=org.xbmc.kore) [![Official Kodi Remote (iOS)](/images/blog/qrcode.jpeg)](https://itunes.apple.com/en/app/official-xbmc-remote/id520480364)    Like Kodi itself, both official remotes are free and open source software.
 
 ### Donations or getting involved
 

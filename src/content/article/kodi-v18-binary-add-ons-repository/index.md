@@ -5,7 +5,7 @@ tags:
   - Developer
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kodi_Blog_Blueprint_Leia_900x336.webp
+  src: /images/blog/Kodi_Blog_Blueprint_Leia_900x336.jpeg
   title: "Kodi_Blog_Blueprint_Leia_900x336"
   alt: "Kodi_Blog_Blueprint_Leia_900x336"
 ---
@@ -26,9 +26,9 @@ We can now finally say all this has been finalised and are happy to say we can f
 
 Binary repositort is currently available for Android, OSX and Windows. For Linux you still have to use the PPA and iOS and UWP will continue to include the binary add-ons in the installer because of platform limitations and for now nothing changes.
 
-![](/images/blog/v18_binary_repo.webp)
+![](/images/blog/v18_binary_repo.jpeg)
 
-![](/images/blog/v18_binary_repo_installed.webp)
+![](/images/blog/v18_binary_repo_installed.jpeg)
 
 **Installing**
 

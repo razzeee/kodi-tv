@@ -5,7 +5,7 @@ tags:
   - Conferences
 author: Keith Herrington
 featured_image:
-  src: /images/blog/kodi_ces.webp
+  src: /images/blog/kodi_ces.jpeg
   title: "kodi_ces"
   alt: "kodi_ces"
 ---

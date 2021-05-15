@@ -6,7 +6,7 @@ tags:
   - Deep Dive
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/pvr_skins_0.webp
+  src: /images/blog/pvr_skins_0.jpeg
   title: "pvr_skins"
   alt: "pvr_skins"
 ---
@@ -19,7 +19,7 @@ We’ve include each with a link to our Kodi add-ons website which lists all add
 
 Not all skins support control using a mouse or touch screens. This is intentional as the skin developers have decided to only allow control using a remote or controller. Additionally not all support PVR. Please respect these decision of the developers as they have their reasons to do so.
 
-    ![](https://mirrors.kodi.tv/addons/isengard/skin.amber/icon.webp) **Name** Amber   **Author** Jester, Pecinko   **Links**
+    ![](https://mirrors.kodi.tv/addons/isengard/skin.amber/icon.jpeg) **Name** Amber   **Author** Jester, Pecinko   **Links**
 
 - [Kodi add-ons website](/addons)
 - [sub-forum](https://forum.kodi.tv/forumdisplay.php?fid=203) (for questions and showing appreciation)
@@ -29,7 +29,7 @@ Not all skins support control using a mouse or touch screens. This is intentiona
   **Description** No bloatware, just your media with easy to navigate interface.  
   Uses some textures from Mediastream and Aeon skin.
 
-  ![](https://mirrors.kodi.tv/addons/isengard/skin.apptv/icon.webp) **Name** AppTV **Author** Wyrm, SamFisher **Links**
+  ![](https://mirrors.kodi.tv/addons/isengard/skin.apptv/icon.jpeg) **Name** AppTV **Author** Wyrm, SamFisher **Links**
 
 - [Kodi add-ons website](/show/skin.apptv)
 - [sub-forum](https://forum.kodi.tv/forumdisplay.php?fid=76) (for questions and showing appreciation)

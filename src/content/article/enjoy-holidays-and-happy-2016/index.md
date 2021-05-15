@@ -5,7 +5,7 @@ tags:
   - Community
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kodi_Xmas.webp
+  src: /images/blog/Kodi_Xmas.jpeg
   title: "Kodi_Xmas"
   alt: "Kodi_Xmas"
 ---

@@ -6,18 +6,18 @@ tags:
   - Conferences
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/20171027_184546_HDR-2.webp
+  src: /images/blog/20171027_184546_HDR-2.jpeg
   title: "20171027_184546_HDR-2"
   alt: "20171027_184546_HDR-2"
 ---
 
 Day Two dawns... most people are bright-eyed and ready for another day, although, if I'm honest, some people may be here more in body than in spirit...
 
-[![LibreELEC Logo](https://wp.flash-jet.com/wp-content/uploads/2017/04/n6blkmxg.webp)](https://libreelec.tv/)
+[![LibreELEC Logo](https://wp.flash-jet.com/wp-content/uploads/2017/04/n6blkmxg.jpeg)](https://libreelec.tv/)
 
 First on today, **chewitt** from LibreELEC gave us an update: the installed base continues to grow, with the Raspberry Pi in different forms easily remains the dominant platform, although this is slowly declining in favour of SoC (Android stock) devices. Given the appliance nature of LE - operating system and applications - a large part of the presentation was given over to security, including automated updates and the overall integrity of the process.
 
-![GSoC Logo](https://developers.google.com/open-source/gsoc/images/gsoc2016-sun-373x373.webp)
+![GSoC Logo](https://developers.google.com/open-source/gsoc/images/gsoc2016-sun-373x373.jpeg)
 
 Next up, a series of sessions led by our newest team members - our Google Summer of Code students (or maybe "graduates" now, given their contributions!).
 
@@ -35,7 +35,7 @@ Following this - in a deja vu moment for many people - the discussion moved to w
 
 Next up, **Martijn** talked about our next major release. We've just launched the latest point release of Krypton 17.x, so it's time to be looking towards Leia 18.x; the code is broadly ready and stable, so it's now a process of locking down features, freezing code, building alphas, and so on. As always, this is a major piece of logistics, so it needs to be planned and timed properly.
 
-![Linux (Tux) Logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.webp) ![Windows Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/768px-Windows_logo_-_2012.svg.webp) ![Apple Logo](/images/blog/giant-apple-logo-bw.webp) ![Android Logo](https://cdn.worldvectorlogo.com/logos/android.svg)
+![Linux (Tux) Logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.jpeg) ![Windows Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/768px-Windows_logo_-_2012.svg.jpeg) ![Apple Logo](/images/blog/giant-apple-logo-bw.jpeg) ![Android Logo](https://cdn.worldvectorlogo.com/logos/android.svg)
 
 As the day started to lurch towards the finishing line, the sessions moved on to platform specifics.
 

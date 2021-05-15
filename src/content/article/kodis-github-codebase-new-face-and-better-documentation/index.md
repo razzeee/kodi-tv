@@ -5,7 +5,7 @@ tags:
   - Developer
 author: Cris Silva (h.udo)
 featured_image:
-  src: /images/blog/matrix.webp
+  src: /images/blog/matrix.jpeg
   title: "matrix"
   alt: "matrix"
 ---

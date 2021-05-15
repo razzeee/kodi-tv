@@ -6,7 +6,7 @@ tags:
   - Conferences
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/prague-1002963_1920.webp
+  src: /images/blog/prague-1002963_1920.jpeg
   title: "prague-1002963_1920"
   alt: "prague-1002963_1920"
 ---
@@ -19,11 +19,11 @@ Ludi incipiant!
 
 **Keith** once again played MC and opened up the session while **Natethomas** valiently wrestled to overcome the inevitable hotel AV equipment challenges. Our rough format for this meeting will be a partner day today (Friday) before the internal Kodi stuff takes over for the weekend.
 
-[![FLIRC Logo](https://flirc.tv/image/catalog/Logo.webp)](https://flirc.tv/)
+[![FLIRC Logo](https://flirc.tv/image/catalog/Logo.jpeg)](https://flirc.tv/)
 
 First up for presentations, then, **Jason** from **FLIRC** took the floor. He gave us an overview of the FLIRC products, the history of the company, the rationale behind the FLIRC USB learning adapter, a demonstration of the device in action and a brief glimpse of some possible future plans. It's amazing how excited you can get at, and how long you can discuss, what are perhaps the finest Raspberry Pi cases in the world (but maybe we're a little biased).
 
-[![VLC Icon](https://images.videolan.org/images/VLC-IconSmall.webp)](https://www.videolan.org/)
+[![VLC Icon](https://images.videolan.org/images/VLC-IconSmall.jpeg)](https://www.videolan.org/)
 
 Next up, **JB** and **Etix** from **VideoLAN** - if you don't recognise that name, they're the **VLC** guys, who came resplendent in their traffic cone hats. Topics covered included what's gone into VLC 3.0, code cleanup and convergence, new features. They also covered some other VideoLAN technologies, some of which go beyond VLC - Mirrorbits, for example. And we finally touched on equivalencies and common interests between the projects, and where we might perhaps collaborate more than we do today.
 

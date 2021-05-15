@@ -5,7 +5,7 @@ author: Team Kodi
 tags:
   - April Fools
 featured_image:
-  src: /images/blog/kodi-minimum-60.webp
+  src: /images/blog/kodi-minimum-60.jpeg
   title: "Kodi bandwidth speed limit"
   alt: "Kodi bandwidth speed limit"
 ---

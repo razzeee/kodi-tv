@@ -5,7 +5,7 @@ tags:
   - Release
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/kodi-system-15.webp
+  src: /images/blog/kodi-system-15.jpeg
   title: "kodi-system-15"
   alt: "kodi-system-15"
 ---

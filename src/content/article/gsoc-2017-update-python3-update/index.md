@@ -5,7 +5,7 @@ tags:
   - Developer
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/digital-388075_1280.webp
+  src: /images/blog/digital-388075_1280.jpeg
   title: "digital-388075_1280"
   alt: "digital-388075_1280"
 ---

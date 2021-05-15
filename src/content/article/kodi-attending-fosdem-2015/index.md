@@ -5,7 +5,7 @@ tags:
   - Conferences
 author: Kib
 featured_image:
-  src: /images/blog/kodifosdem.webp
+  src: /images/blog/kodifosdem.jpeg
   title: "kodifosdem"
   alt: "kodifosdem"
 ---
@@ -26,7 +26,7 @@ Furthermore, we will be giving two presentations on the history and future of Ko
 
 \*) Because the second presentation is only 15 minutes, we will skip over some parts. There will also be less (if any!) time for questions. You are of course more then welcome to visit us in the AW building after the talk has finished to ask your questions.
 
-[![FOSDEM2015_campus_map](/images/blog/FOSDEM2015_campus_map-300x212.webp)](/images/blog/FOSDEM2015_campus_map.webp)
+[![FOSDEM2015_campus_map](/images/blog/FOSDEM2015_campus_map-300x212.jpeg)](/images/blog/FOSDEM2015_campus_map.jpeg)
 
 If you are interested in seeing the talk(s) but not able to come (or not a developer) – both talks will be made available as video on the FOSDEM ’15 website.  
  We will update this post with the direct links to the videos as soon as they have been made available.

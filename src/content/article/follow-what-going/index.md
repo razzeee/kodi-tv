@@ -5,7 +5,7 @@ tags:
   - Community
 author: Team XBMC
 featured_image:
-  src: /images/blog/xbmc-gotham-13_1-beta.webp
+  src: /images/blog/xbmc-gotham-13_1-beta.jpeg
   title: "xbmc-gotham-13_1-beta"
   alt: "xbmc-gotham-13_1-beta"
 ---

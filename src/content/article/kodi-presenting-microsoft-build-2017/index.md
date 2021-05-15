@@ -5,7 +5,7 @@ tags:
   - Conferences
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/MSbuild2017.webp
+  src: /images/blog/MSbuild2017.jpeg
   title: "MSbuild2017"
   alt: "MSbuild2017"
 ---

@@ -5,7 +5,7 @@ tags:
   - Developer
 author: Cris Silva (h.udo)
 featured_image:
-  src: /images/blog/padlock.webp
+  src: /images/blog/padlock.jpeg
   title: "padlock"
   alt: "padlock"
 ---

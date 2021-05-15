@@ -5,7 +5,7 @@ tags:
   - Developer
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/neighborscale.webp
+  src: /images/blog/neighborscale.jpeg
   title: "neighborscale"
   alt: "neighborscale"
 ---

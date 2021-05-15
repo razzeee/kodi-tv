@@ -5,7 +5,7 @@ author: Prof Yaffle
 tags:
   - Prerelease
 featured_image:
-  src: /images/blog/Kodi_Splash_v19.0_Matrix_Alpha_1080p.webp
+  src: /images/blog/Kodi_Splash_v19.0_Matrix_Alpha_1080p.jpeg
   title: "Kodi 19.0 Alpha Splash Screen"
   alt: "Kodi 19.0 Alpha Splash Screen"
 ---

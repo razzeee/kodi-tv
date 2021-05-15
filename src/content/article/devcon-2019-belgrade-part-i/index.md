@@ -6,9 +6,9 @@ tags:
   - DevCon
   - Conferences
 featured_image:
-  src: /images/blog/Belgrade_at_night2.webp
-  title: "Belgrade, Serbia at night - Creative Commons Attribution-Share Alike 3.0 Unported - https://commons.wikimedia.org/wiki/File:Belgrade_at_night.webp"
-  alt: "Belgrade, Serbia at night - Creative Commons Attribution-Share Alike 3.0 Unported - https://commons.wikimedia.org/wiki/File:Belgrade_at_night.webp"
+  src: /images/blog/Belgrade_at_night2.jpeg
+  title: "Belgrade, Serbia at night - Creative Commons Attribution-Share Alike 3.0 Unported - https://commons.wikimedia.org/wiki/File:Belgrade_at_night.jpeg"
+  alt: "Belgrade, Serbia at night - Creative Commons Attribution-Share Alike 3.0 Unported - https://commons.wikimedia.org/wiki/File:Belgrade_at_night.jpeg"
 ---
 
 Another year passes, and here we are once again, locked in a windowless room to discuss all things Kodi-shaped. Genuine thanks to the generosity of our sponsors and users - that means you, you lovely people - whose donations make these meetings possible. Old faces, new faces, guests - these events really do help us to come together, share ideas and shape the direction of our favourite media software.

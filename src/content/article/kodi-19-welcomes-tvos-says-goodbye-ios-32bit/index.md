@@ -5,7 +5,7 @@ tags:
   - Community
 author: phunkyfish
 featured_image:
-  src: /images/blog/ash-edmonds-LHlC2sl0Zxs-unsplash.webp
+  src: /images/blog/ash-edmonds-LHlC2sl0Zxs-unsplash.jpeg
   title: "Siri remote. Photo by Ash Edmonds on Unsplash"
   alt: "Siri remote. Photo by Ash Edmonds on Unsplash"
 ---

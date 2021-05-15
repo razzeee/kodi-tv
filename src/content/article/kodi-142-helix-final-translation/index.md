@@ -5,7 +5,7 @@ tags:
   - Release
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/kodi-14.2.webp
+  src: /images/blog/kodi-14.2.jpeg
   title: "kodi-14.2"
   alt: "kodi-14.2"
 ---
@@ -47,7 +47,7 @@ Also, as Kodi is an unsigned application on OSX, you may need to go through a sl
 
 This release coincides with the release of our Kodi Villain shirt and hoodie. We’re pretty excited about both and hope you like them too.
 
-[![kodivillainshirt](/images/blog/kodivillainshirt.webp)](https://teespring.com/kodi-villain-shirt)
+[![kodivillainshirt](/images/blog/kodivillainshirt.jpeg)](https://teespring.com/kodi-villain-shirt)
 
 ## Download
 

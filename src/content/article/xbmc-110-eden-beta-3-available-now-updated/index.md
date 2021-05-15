@@ -6,7 +6,7 @@ tags:
 author: Team XBMC
 ---
 
-[![takeiXBMC](/images/blog/takeiXBMC-300x170.webp "takeiXBMC")](/images/blog/takeiXBMC.webp)As we continue moving toward the release of Eden, more and more fixes are slotting into place. With Beta 3, we’ve fixed playlist issues, altered some misbehaving Library buttons, provided a little more control over the way movie sets are scraped, and cleaned up numerous other small bugs.
+[![takeiXBMC](/images/blog/takeiXBMC-300x170.jpeg "takeiXBMC")](/images/blog/takeiXBMC.jpeg)As we continue moving toward the release of Eden, more and more fixes are slotting into place. With Beta 3, we’ve fixed playlist issues, altered some misbehaving Library buttons, provided a little more control over the way movie sets are scraped, and cleaned up numerous other small bugs.
 
 On top of the many bug fixes though, we are pleased to officially announce the first beta of XBMCbuntu. With this beta release, we have chosen to slightly shift the focus of the pre-built XBMC Live install. In the past, XBMC Live was optimized for a pure set-top box experience. In the switch to XBMCbuntu, we are pushing to a more traditional ‘buntu approach that emphasizes first trying and then ultimately installing XBMC onto the local machine.
 
@@ -22,4 +22,4 @@ And for those users of Eden Beta1 and Beta2, as always, your downloads may be fo
 
 With Beta 2, XBMC has begun automatically scanning for Movie Collections when using the default movie scraper. With Beta 3, XBMC continues to scan for those collections, but no longer displays Collections by default. To enable Movie Collections, visit System -\> Video -\> Library, and enable “Group movies in sets.”
 
-[![Sets_setting](/images/blog/Sets_setting-300x200.webp "Sets_setting")](/images/blog/Sets_setting.webp)
+[![Sets_setting](/images/blog/Sets_setting-300x200.jpeg "Sets_setting")](/images/blog/Sets_setting.jpeg)

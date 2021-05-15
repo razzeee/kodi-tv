@@ -5,7 +5,7 @@ tags:
   - Community
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/fairy-tales-1662427_1920.webp
+  src: /images/blog/fairy-tales-1662427_1920.jpeg
   title: "fairy-tales-1662427_1920"
   alt: "fairy-tales-1662427_1920"
 ---

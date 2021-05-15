@@ -6,7 +6,7 @@ tags:
   - Release
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/kodishieldwide.webp
+  src: /images/blog/kodishieldwide.jpeg
   title: "kodishieldwide"
   alt: "kodishieldwide"
 ---
@@ -17,7 +17,7 @@ As you may have heard by now, we have a few announcements to make that should be
 
 Firstly, Kodi is now [available in Google Play](https://play.google.com/store/apps/details?id=org.xbmc.kodi). You can download it at the previous link or using the following QR code.
 
-[![](https://developer.android.com/images/brand/en_generic_rgb_wo_45.webp)](https://play.google.com/store/apps/details?id=org.xbmc.kodi)
+[![](https://developer.android.com/images/brand/en_generic_rgb_wo_45.jpeg)](https://play.google.com/store/apps/details?id=org.xbmc.kodi)
 
 [![](https://chart.googleapis.com/chart?cht=qr&chs=100x100&choe=UTF-8&chld=H|0&chl=https://goo.gl/gvJKBI)](https://play.google.com/store/apps/details?id=org.xbmc.kodi)
 
@@ -39,6 +39,6 @@ If you’d like to read more on the topic, [AFTVnews](https://www.aftvnews.com/a
 
 We spent some time going back and forth trying to find a shirt to protest Amazon’s removing Kodi from their App Store, but at the end of the day, we decided all our ideas sounded a bit too much like the proletariat protesting the establishment. So instead, here’s a cool, [distressed looking shirt](https://fabrily.com/kodi-protest-collection) that we like a lot. Important to mention is that compared to previous T-shirts, the prices for shipping are far more reasonable. Have fun!
 
-[![kodiprotestcollection](/images/blog/kodiprotestcollection-450x600.webp)](https://fabrily.com/kodi-protest-collection)
+[![kodiprotestcollection](/images/blog/kodiprotestcollection-450x600.jpeg)](https://fabrily.com/kodi-protest-collection)
 
 Credit to [forum user Tinwarble](https://forum.kodi.tv/showthread.php?tid=228158) for the cool Kodi Shield image.

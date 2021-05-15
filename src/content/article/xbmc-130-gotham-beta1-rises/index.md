@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/gotham_splash_beta.webp
+  src: /images/blog/gotham_splash_beta.jpeg
   title: "gotham_splash_beta"
   alt: "gotham_splash_beta"
 ---
@@ -14,17 +14,17 @@ We hope you are as excited about this as we are. After a year of hard work, impr
 
 ## The features
 
-**Android Hardware Decoding** ![DL_Icons_Android-new](/images/blog/DL_Icons_Android-new.webp)
+**Android Hardware Decoding** ![DL_Icons_Android-new](/images/blog/DL_Icons_Android-new.jpeg)
 
 Since 2012 July 12, the single most requested feature has been hardware decoding in Android, and with XBMC 13 we are finally able to make that feature a reality. XBMC should run on Android 4.0 and higher and is offered now in two separate build, namely ARM and x86 which are the hardware architectures of the device. You would need to consult your device specifications before you download XBMC for Android, though the vast majority of Android devices run on ARM hardware.
 
-**Raspberry Pi and Android speed improvements ![DL_Icons_RaspberryPi-new](/images/blog/DL_Icons_RaspberryPi-new.webp)**
+**Raspberry Pi and Android speed improvements ![DL_Icons_RaspberryPi-new](/images/blog/DL_Icons_RaspberryPi-new.jpeg)**
 
 Since the release of Frodo lot of effort has been put into getting XBMC to run smoother on lower powered platform like the famous Raspberry Pi and of course Android. All this effort has paid off and the experience of using these devices has been much more polished and satisfying than ever before. For example opening your libraries, browsing through them, loading of images and the starting of videos have all seen dramatic speed increases.
 
 **Stereoscopic 3D Rendering**
 
-[![Some of the newly available 3D Options](/images/blog/3D_in_2D-300x165.webp)](/images/blog/3D_in_2D.webp)
+[![Some of the newly available 3D Options](/images/blog/3D_in_2D-300x165.jpeg)](/images/blog/3D_in_2D.jpeg)
 
 For you lovers of 3D out there, we are also pleased to say that we now support 3D movies encoded in the following formats: SBS, TAB, anaglyph, and interlaced (on supported platforms for passive TVs). Unfortunately, XBMC cannot yet support 3D blurays and cannot provide hardware acceleration for FullSBS/TAB movies (therefore limiting those videos to relatively high powered CPUs).
 
@@ -34,7 +34,7 @@ XBMC on touchscreens now supports gesture controls during video playback, as wel
 
 **Improved UPnP capabilities**
 
-[![gotham-upnp_play_using](/images/blog/gotham-upnp_play_using-300x187.webp "Gotham 13.0 - UPnP Play Using...")](/images/blog/gotham-upnp_play_using.webp)Instances of XBMC throughout the house can now “speak” with each other and with other UPnP devices. Support now includes more advanced library browsing as well as “[Play using…](https://www.youtube.com/watch?v=0D3JkUzUi-k "Play Using and XBMC")” functions, allowing XBMC to tell another device on the network to play a certain media file.
+[![gotham-upnp_play_using](/images/blog/gotham-upnp_play_using-300x187.jpeg "Gotham 13.0 - UPnP Play Using...")](/images/blog/gotham-upnp_play_using.jpeg)Instances of XBMC throughout the house can now “speak” with each other and with other UPnP devices. Support now includes more advanced library browsing as well as “[Play using…](https://www.youtube.com/watch?v=0D3JkUzUi-k "Play Using and XBMC")” functions, allowing XBMC to tell another device on the network to play a certain media file.
 
 So you can browse the UPnP library on your tablet and send a video from that library straight to you main XBMC HTPC, similar to Apple’s Airplay and Google’s casting features.
 
@@ -58,7 +58,7 @@ Third, every setting page now includes a Reset to Default option so that if you 
 
 **Making Subtitle Search Better**
 
-[![Gotham 13.0 Improved subtitle search](/images/blog/gotham-subtitle_search-300x187.webp)](/images/blog/gotham-subtitle_search.webp)
+[![Gotham 13.0 Improved subtitle search](/images/blog/gotham-subtitle_search-300x187.jpeg)](/images/blog/gotham-subtitle_search.jpeg)
 
 This change should give addon developers in this area a great deal more latitude for implementing changes and fixes without needing to wait for other addon devs to submit similar fixes, all to the benefit of the user experience. From the user perspective, the only significant change will be in the way a subtitle search service is downloaded. Right now, it is already available and merely needs enabling, as there is only a single addon. In the future, the user will need to select and download their preferred addon before starting a movie and searching for subtitles.
 
@@ -103,7 +103,7 @@ If you’d like to read up on the developments and various improvements done sin
 
 ## The Shirt
 
-[![](https://images.teespring.com/shirt_pic/452953/front.webp?v=2014-03-04-05-35)](https://teespring.com/xbmcbeta1shirt)
+[![](https://images.teespring.com/shirt_pic/452953/front.jpeg?v=2014-03-04-05-35)](https://teespring.com/xbmcbeta1shirt)
 
 For the next two weeks, and only the next two weeks, in honor of Beta 1 of XBMC 13 finally being released, and to celebrate the fact that we’ve been around over 10 years now, [we’re selling a simple XBMC t-shirt](https://teespring.com/xbmcbeta1shirt "XBMC Shirt") (also available in women’s sizes and as a hoodie).
 

@@ -5,7 +5,7 @@ tags:
   - Community
 author: DarrenHill
 featured_image:
-  src: /images/blog/raul-petri-unsplash.webp
+  src: /images/blog/raul-petri-unsplash.jpeg
   title: "Freedom of Choice - Photo by Raul Petri on Unsplash"
   alt: "Freedom of Choice - Photo by Raul Petri on Unsplash"
 ---

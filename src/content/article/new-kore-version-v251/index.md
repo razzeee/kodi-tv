@@ -5,7 +5,7 @@ tags:
   - Release
 author: Team Kodi
 featured_image:
-  src: /images/blog/84595474-00aa5100-ae50-11ea-86ab-cc7b4a47b977.webp
+  src: /images/blog/84595474-00aa5100-ae50-11ea-86ab-cc7b4a47b977.jpeg
   title: "Kore logo"
   alt: "Kore logo"
 ---

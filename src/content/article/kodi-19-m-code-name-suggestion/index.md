@@ -5,7 +5,7 @@ tags:
   - Community
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/Kodi-Wallpaper-blue.webp
+  src: /images/blog/Kodi-Wallpaper-blue.jpeg
   title: "Kodi-Wallpaper-blue"
   alt: "Kodi-Wallpaper-blue"
 ---

@@ -5,7 +5,7 @@ tags:
   - Community
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/kodi-on-xbone.webp
+  src: /images/blog/kodi-on-xbone.jpeg
   title: "kodi-on-xbone"
   alt: "kodi-on-xbone"
 ---

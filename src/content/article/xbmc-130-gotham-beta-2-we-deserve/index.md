@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/gotham_splash_beta.webp
+  src: /images/blog/gotham_splash_beta.jpeg
   title: "gotham_splash_beta"
   alt: "gotham_splash_beta"
 ---
@@ -41,7 +41,7 @@ After you have updated from Frodo or any earlier alpha or beta it might pay of t
 
 ## The Shirt
 
-[![](https://images.teespring.com/shirt_pic/452953/7/355/front.webp?v=2014-03-04-05-35)](https://teespring.com/xbmcbeta1shirt)
+[![](https://images.teespring.com/shirt_pic/452953/7/355/front.jpeg?v=2014-03-04-05-35)](https://teespring.com/xbmcbeta1shirt)
 
 For those of you on the fence about the [XBMC t-shirt](https://teespring.com/xbmcbeta1shirt "XBMC Shirt") (also available in women’s sizes and as a hoodie, as well as multiple colors), you should know that as of this writing there are only 1 day and 12 hours left to buy. Time’s just about up!
 

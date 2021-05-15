@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/settings_descriptions.webp
+  src: /images/blog/settings_descriptions.jpeg
   title: "settings_descriptions"
   alt: "settings_descriptions"
 ---
@@ -22,9 +22,9 @@ Ripped CDs are now automatically added the the music library, and ripping suppor
 
 One of the first big benefits of the settings refactor has been the inclusion of new settings descriptions. Now, when you highlight a setting that previously made next to no sense, a small description will pop up clarifying what the setting actually accomplishes, as can be seen near the bottom of the below image.
 
-[![settings_descriptions](/images/blog/settings_descriptions-300x187.webp)](/images/blog/settings_descriptions.webp)
+[![settings_descriptions](/images/blog/settings_descriptions-300x187.jpeg)](/images/blog/settings_descriptions.jpeg)
 
-Those familiar with Github are encouraged to consider [adding more settings descriptions](https://forum.kodi.tv/showthread.php?tid=170528&amp;pid=1476835 "Help adding settings descriptions").
+Those familiar with Github are encouraged to consider [adding more settings descriptions](https://forum.kodi.tv/showthread.php?tid=170528&pid=1476835 "Help adding settings descriptions").
 
 Additionally, profiles can now have their settings levels locked, so if your kids have their own profile, they can’t accidentally switch to more advanced settings, causing major problems throughout XBMC.
 

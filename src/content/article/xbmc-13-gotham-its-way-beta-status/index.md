@@ -5,7 +5,7 @@ tags:
   - Community
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/xbmc-gotham-teaser-purple.webp
+  src: /images/blog/xbmc-gotham-teaser-purple.jpeg
   title: "xbmc-gotham-teaser-purple"
   alt: "xbmc-gotham-teaser-purple"
 ---

@@ -5,7 +5,7 @@ tags:
   - Community
 author: yol
 featured_image:
-  src: /images/blog/cash.webp
+  src: /images/blog/cash.jpeg
   title: "Image of man's hand holding US dollar bills"
   alt: "Image of man's hand holding US dollar bills"
 ---

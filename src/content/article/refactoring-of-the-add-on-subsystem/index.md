@@ -5,7 +5,7 @@ author: Frank H.
 tags:
   - Developer
 featured_image:
-  src: /images/blog/olav-ahrens-rotne-jvBXiynINGE-unsplash.webp
+  src: /images/blog/olav-ahrens-rotne-jvBXiynINGE-unsplash.jpeg
   title: "Rubik's Cube: Photo by Olav Ahrens Røtne on Unsplash"
   alt: "Rubik's Cube: Photo by Olav Ahrens Røtne on Unsplash"
 ---

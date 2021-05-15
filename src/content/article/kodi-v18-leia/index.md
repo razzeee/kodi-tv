@@ -5,7 +5,7 @@ tags:
   - Community
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/Kodi-tie-fighter.webp
+  src: /images/blog/Kodi-tie-fighter.jpeg
   title: "Kodi-tie-fighter"
   alt: "Kodi-tie-fighter"
 ---

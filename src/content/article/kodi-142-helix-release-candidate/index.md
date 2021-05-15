@@ -5,7 +5,7 @@ tags:
   - Prerelease
 author: Martijn Kaijser
 featured_image:
-  src: /images/blog/kodi-splash-14.2-rc.webp
+  src: /images/blog/kodi-splash-14.2-rc.jpeg
   title: "kodi-splash-14.2-rc"
   alt: "kodi-splash-14.2-rc"
 ---

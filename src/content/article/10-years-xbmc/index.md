@@ -5,7 +5,7 @@ tags:
   - Community
 author: Nathan Betzen
 featured_image:
-  src: /images/blog/Xbox_Classic___XBMC_Skin_by_Blackbolt.webp
+  src: /images/blog/Xbox_Classic___XBMC_Skin_by_Blackbolt.jpeg
   title: "Xbox_Classic___XBMC_Skin_by_Blackbolt"
   alt: "Xbox_Classic___XBMC_Skin_by_Blackbolt"
 ---

@@ -6,7 +6,7 @@ tags:
   - Developer
 author: Prof Yaffle
 featured_image:
-  src: /images/blog/devon-janse-van-rensburg-763520-unsplash.webp
+  src: /images/blog/devon-janse-van-rensburg-763520-unsplash.jpeg
   title: "devon-janse-van-rensburg-763520-unsplash"
   alt: "devon-janse-van-rensburg-763520-unsplash"
 ---
