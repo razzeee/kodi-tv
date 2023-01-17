@@ -18,10 +18,14 @@ export default function BlogPost(props: { preview?: any; blogPost?: any }) {
     description: blogPost.excerpt,
   };
   let showimage = true;
+  let isSvg = false;
   if (blogPost.frontmatter.featured_image == undefined) {
     blogPost.frontmatter.featured_image = { title: "", src: "", alt: "" };
     showimage = false;
   } else {
+    if (blogPost.frontmatter.featured_image.src.endsWith(".svg")) {
+      isSvg = true;
+    }
     frontmatter.image = blogPost.frontmatter.featured_image.src;
   }
   if (blogPost.frontmatter.tags == undefined) {
@@ -37,12 +41,20 @@ export default function BlogPost(props: { preview?: any; blogPost?: any }) {
         <div className="max-w-7xl mx-auto">
           <div className="relative shadow-xl rounded-2xl overflow-hidden">
             <div className="absolute inset-0">
-              <img
-                className="h-full w-full object-fill"
-                src={blogPost.frontmatter.featured_image.src}
-                title={blogPost.frontmatter.featured_image.title}
-                alt={blogPost.frontmatter.featured_image.alt}
-              />
+              {!isSvg && (
+                <img
+                  className="h-full w-full"
+                  src={blogPost.frontmatter.featured_image.src}
+                />
+              )}
+              <div className="flex absolute inset-0 backdrop-blur-md">
+                <img
+                  className="m-auto object-cover h-full"
+                  src={blogPost.frontmatter.featured_image.src}
+                  title={blogPost.frontmatter.featured_image.title}
+                  alt={blogPost.frontmatter.featured_image.alt}
+                />
+              </div>
             </div>
             <div className="relative px-6 py-40"></div>
           </div>
