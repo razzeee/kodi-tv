@@ -84,8 +84,10 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest }, options) 
       var docClient = DynamoDBDocument.from(
         new DynamoDB({
           region: options.region,
-          accessKeyId: options.accessKeyId,
-          secretAccessKey: options.secretAccessKey,
+          credentials: {
+            accessKeyId: options.accessKeyId,
+            secretAccessKey: options.secretAccessKey,
+          },
         })
       );
       docClient.query(options.params, onQuery);
