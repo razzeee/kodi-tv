@@ -38,6 +38,7 @@ collections:
           - { name: "title", label: "Title", widget: "string", required: false }
           - { name: "alt", label: "Alt text", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Save as Draft", name: "draft", widget: "boolean", default: false }
   - name: "aboutpages"
     label: "About Pages"
     label_singular: "About Page"

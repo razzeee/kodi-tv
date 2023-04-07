@@ -60,6 +60,7 @@ export const pageQuery = graphql`
             src
             title
           }
+          draft
           title
         }
       }

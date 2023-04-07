@@ -23,7 +23,7 @@ export default function AddonSearchPage({ data, pageContext, location }) {
 export const pageQuery = graphql`
   {
     blogPosts: allMarkdownRemark(
-      filter: { fields: { collection: { eq: "blog" } } }
+      filter: { fields: { collection: { eq: "blog" }
       sort: { frontmatter: { date: DESC } }
       limit: 1000
     ) {
@@ -39,6 +39,7 @@ export const pageQuery = graphql`
             src
             title
           }
+          draft
           tags
           title
         }
